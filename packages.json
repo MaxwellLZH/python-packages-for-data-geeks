@@ -1,0 +1,27 @@
+{
+  "Machine Learning": [
+    {
+      "name": "categorical-encoders",
+      "url": "https://github.com/scikit-learn-contrib/categorical-encoding",
+      "comment": "Implements multiple algorithms for encoding categorical variables."
+    }
+  ],
+
+  "Model Interpretation": [
+    {
+      "name": "SHAP",
+      "url": "https://github.com/slundberg/shap",
+      "comment": "Consistent feature attribution method."
+    }
+  ],
+
+  "Visualization": [
+    {
+      "name": "Plotly",
+      "url": "https://github.com/plotly/plotly.py",
+      "comment": "Python version of plotly.js, friendly with Jupyter Notebook."
+    }
+  ]
+
+
+}
