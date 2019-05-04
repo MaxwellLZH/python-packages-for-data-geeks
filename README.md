@@ -3,23 +3,23 @@
 
 
 ## Machine Learning  
-author|description|name|star_count|url
+name|owner|description|star_count|link
 ---|---|---|---|---
-scikit-learn-contrib|A library of sklearn compatible categorical variable encoders|categorical-encoders|845|https://github.com/scikit-learn-contrib/categorical-encoding
+**categorical-encoders**|scikit-learn-contrib|A library of sklearn compatible categorical variable encoders|845|https://github.com/scikit-learn-contrib/categorical-encoding
  
 
 
 ## Model Interpretation  
-author|description|name|star_count|url
+name|owner|description|star_count|link
 ---|---|---|---|---
-slundberg|A unified approach to explain the output of any machine learning model.|SHAP|4,594|https://github.com/slundberg/shap
+**SHAP**|slundberg|A unified approach to explain the output of any machine learning model.|4,594|https://github.com/slundberg/shap
  
 
 
 ## Visualization  
-author|description|name|star_count|url
+name|owner|description|star_count|link
 ---|---|---|---|---
-plotly|An open-source, interactive graphing library for python ✨|Plotly|4,916|https://github.com/plotly/plotly.py
+**Plotly**|plotly|An open-source, interactive graphing library for python ✨|4,916|https://github.com/plotly/plotly.py
  
 
 

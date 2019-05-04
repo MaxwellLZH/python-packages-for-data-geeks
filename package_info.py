@@ -24,7 +24,7 @@ class Package(metaclass=ABCMeta):
 
 	@property
 	@abstractmethod
-	def author(self):
+	def owner(self):
 		pass
 
 	@property
@@ -45,7 +45,7 @@ class GithubPackage(Package):
 		super().__init__(name, url)
 
 	@property
-	def author(self):
+	def owner(self):
 		return self.page.find(attrs={'rel': 'author'}).text
 
 	@property
@@ -92,6 +92,12 @@ def convert_info_to_markdown(info):
 	cols = df.columns
 	df_h = pd.DataFrame([['---',]*len(cols)], columns=cols)
 	df = pd.concat([df_h, df])
+	
+	# formatting
+	df = df[['name', 'owner', 'description', 'star_count', 'url']]
+	df = df.rename(columns={'url': 'link', 'start_count': '# stars'})
+	df['name'] = df['name'].apply(lambda x: '**{}**'.format(x) if x != '---' else x)
+
 	df.to_csv(s, sep='|', index=False)
 	return s.getvalue()
 
