@@ -33,7 +33,7 @@ class Package(metaclass=ABCMeta):
 		pass
 
 	def to_dict(self):
-		fields = get_properties(self.__class__) + ['url']
+		fields = get_properties(self.__class__) + ['name', 'url']
 		return {f: getattr(self, f) for f in fields}
 
 
@@ -95,14 +95,23 @@ def convert_info_to_markdown(info):
 	df.to_csv(s, sep='|', index=False)
 	return s.getvalue()
 
-def update_readme(info, template_path='./README.template'):
+def update_readme(info, package_path='./packages.json', template_path='./README.template'):
+	from jinja2 import Template
+
+	with open(package_path, 'r') as f:
+		packages = json.load(f)
+
+	# mapping from category to its own markdown table
+	packages = {cat: {p['name']: info[p['name']] for p in pkgs} for cat, pkgs in packages.items()}
+	packages = {cat: convert_info_to_markdown(info) for cat, info in packages.items()}
+
 	with open(template_path, 'r') as f:
-		template = f.read()
-	print(template)
-	template = template.replace(r'{{ tbl }}', convert_info_to_markdown(info))
-	print(template)
+		template = Template(f.read())
+
+	template = template.render(info=packages)
 	with open('./README.md', 'w', encoding='utf8') as f:
 		f.write(template)
+
 
 if __name__ == '__main__':
 	pkgs = list_packages()
@@ -113,4 +122,5 @@ if __name__ == '__main__':
 			pkg = make_package(name, url)
 			info[pkg.name] = pkg.to_dict()
 
+	save_info(info)
 	update_readme(info)
