@@ -44,6 +44,7 @@ name|owner|description|star_count|link
 **tensorflow2_tutorials_chinese**|czy36mengfei|Tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials|1,450|https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
 **Python 100 days**|jackfrued|Python - 100天从新手到大师|20,391|https://github.com/jackfrued/Python-100-Days
 **deep learning drizzle**|kmario23|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!|4,746|https://github.com/kmario23/deep-learning-drizzle
+**500 lines or less**|aosabook|500 lines or less|21,569|https://github.com/aosabook/500lines
  
 
 
