@@ -38,11 +38,6 @@
     {
       "name": "PDPBox",
       "url": "https://github.com/SauceCat/PDPbox"
-    },
-
-    {
-      "name": "folium",
-      "url": "https://github.com/python-visualization/folium"
     }
   ],
 
@@ -56,6 +51,11 @@
     {
       "name": "Seaborn",
       "url": "https://github.com/mwaskom/seaborn"
+    },
+
+    {
+      "name": "folium",
+      "url": "https://github.com/python-visualization/folium"
     }
   ],
 

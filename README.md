@@ -18,7 +18,6 @@ name|owner|description|star_count|link
 **SHAP**|slundberg|A unified approach to explain the output of any machine learning model.|4,594|https://github.com/slundberg/shap
 **LIME**|marcotcr|Lime: explaining the predictions of any machine learning classifier|5,674|https://github.com/marcotcr/lime
 **PDPBox**|SauceCat|Python partial dependence plot toolbox|292|https://github.com/SauceCat/PDPbox
-**folium**|python-visualization|Python data. leaflet.js maps.|3,891|https://github.com/python-visualization/folium
  
 
 
@@ -27,6 +26,7 @@ name|owner|description|star_count|link
 ---|---|---|---|---
 **Plotly**|plotly|An open-source, interactive graphing library for python ✨|4,916|https://github.com/plotly/plotly.py
 **Seaborn**|mwaskom|Statistical data visualization using matplotlib|6,043|https://github.com/mwaskom/seaborn
+**folium**|python-visualization|Python data. leaflet.js maps.|3,891|https://github.com/python-visualization/folium
  
 
 
