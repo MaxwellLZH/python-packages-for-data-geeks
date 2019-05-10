@@ -12,6 +12,11 @@
     },
 
     {
+      "name": "pymc",
+      "url": "https://github.com/pymc-devs/pymc3"
+    },
+
+    {
       "name": "VowpalWabbit",
       "url": "https://github.com/VowpalWabbit/vowpal_wabbit"
     }
@@ -64,6 +69,20 @@
     {
       "name": "jupytext",
       "url": "https://github.com/mwouts/jupytext"
+    }
+
+  ],
+
+
+  "Tutorial": [
+    {
+      "name": "tensorflow2_tutorials_chinese",
+      "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese"
+    },
+
+    {
+      "name": "Python 100 days",
+      "url": "https://github.com/jackfrued/Python-100-Days"
     }
 
   ]
