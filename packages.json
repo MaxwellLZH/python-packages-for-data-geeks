@@ -69,6 +69,11 @@
     {
       "name": "jupytext",
       "url": "https://github.com/mwouts/jupytext"
+    },
+
+    {
+      "name": "icecream - debugging",
+      "url": "https://github.com/gruns/icecream"
     }
 
   ],

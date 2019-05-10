@@ -35,6 +35,7 @@ name|owner|description|star_count|link
 ---|---|---|---|---
 **PySnooper**|cool-RR|Never use print for debugging again|9,779|https://github.com/cool-RR/PySnooper
 **jupytext**|mwouts|Jupyter notebooks as markdown documents, julia, python or r scripts|2,417|https://github.com/mwouts/jupytext
+**icecream - debugging**|gruns|🍦 sweet and creamy print debugging.|1,098|https://github.com/gruns/icecream
  
 
 
