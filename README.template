@@ -10,4 +10,4 @@
 
 ## Contribution Guide
 
-Update the `package.json`.
+Add your favourite packages to `package.json`, and run `package_info.py` to update the page :)

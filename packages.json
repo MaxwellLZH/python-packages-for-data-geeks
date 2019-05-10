@@ -4,7 +4,18 @@
       "name": "categorical-encoders",
       "url": "https://github.com/scikit-learn-contrib/categorical-encoding",
       "comment": "Implements multiple algorithms for encoding categorical variables."
+    },
+
+    {
+      "name": "auto-scikitlearn",
+      "url": "https://github.com/automl/auto-sklearn"
+    },
+
+    {
+      "name": "VowpalWabbit",
+      "url": "https://github.com/VowpalWabbit/vowpal_wabbit"
     }
+
   ],
 
   "Model Interpretation": [
@@ -12,6 +23,21 @@
       "name": "SHAP",
       "url": "https://github.com/slundberg/shap",
       "comment": "Consistent feature attribution method."
+    },
+
+    {
+      "name": "LIME",
+      "url": "https://github.com/marcotcr/lime"
+    },
+
+    {
+      "name": "PDPBox",
+      "url": "https://github.com/SauceCat/PDPbox"
+    },
+
+    {
+      "name": "folium",
+      "url": "https://github.com/python-visualization/folium"
     }
   ],
 
@@ -20,8 +46,28 @@
       "name": "Plotly",
       "url": "https://github.com/plotly/plotly.py",
       "comment": "Python version of plotly.js, friendly with Jupyter Notebook."
+    },
+
+    {
+      "name": "Seaborn",
+      "url": "https://github.com/mwaskom/seaborn"
     }
+  ],
+
+
+  "Development": [
+    {
+      "name": "PySnooper",
+      "url": "https://github.com/cool-RR/PySnooper"
+    },
+
+    {
+      "name": "jupytext",
+      "url": "https://github.com/mwouts/jupytext"
+    }
+
   ]
+
 
 
 }
