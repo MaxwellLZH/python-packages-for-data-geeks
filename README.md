@@ -46,6 +46,7 @@ name|owner|description|star_count|link
 **Python 100 days**|jackfrued|Python - 100天从新手到大师|20,391|https://github.com/jackfrued/Python-100-Days
 **deep learning drizzle**|kmario23|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!|4,746|https://github.com/kmario23/deep-learning-drizzle
 **500 lines or less**|aosabook|500 lines or less|21,569|https://github.com/aosabook/500lines
+**Tensorflow-2.x-Tutorials**|dragen1860|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。|829|https://github.com/dragen1860/TensorFlow-2.x-Tutorials
  
 
 

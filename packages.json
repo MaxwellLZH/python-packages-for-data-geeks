@@ -98,6 +98,11 @@
     {
       "name": "500 lines or less",
       "url": "https://github.com/aosabook/500lines"
+    },
+
+    {
+      "name": "Tensorflow-2.x-Tutorials",
+      "url": "https://github.com/dragen1860/TensorFlow-2.x-Tutorials"
     }
 
     
