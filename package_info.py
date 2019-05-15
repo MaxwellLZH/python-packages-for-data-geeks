@@ -94,11 +94,11 @@ def convert_info_to_markdown(info):
 	df = pd.concat([df_h, df])
 	
 	# formatting
-	df = df[['name', 'owner', 'description', 'star_count', 'url']]
+	df = df[['name', 'owner', 'star_count', 'description', 'url']]
 	df = df.rename(columns={'url': 'link', 'start_count': '# stars'})
 	df['name'] = df['name'].apply(lambda x: '**{}**'.format(x) if x != '---' else x)
 
-	df.to_csv(s, sep='|', index=False)
+	df.sort_values('star_count', ascending=False).to_csv(s, sep='|', index=False)
 	return s.getvalue()
 
 def update_readme(info, package_path='./packages.json', template_path='./README.template'):
