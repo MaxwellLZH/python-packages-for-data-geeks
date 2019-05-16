@@ -103,8 +103,17 @@
     {
       "name": "Tensorflow-2.x-Tutorials",
       "url": "https://github.com/dragen1860/TensorFlow-2.x-Tutorials"
-    }
+    },
 
+    {
+      "name": "NLP-Beginner",
+      "url": "https://github.com/FudanNLP/nlp-beginner"
+    },
+
+    {
+      "name": "Generative Models in TF2",
+      "url": "https://github.com/timsainb/tensorflow2-generative-models"
+    }
     
 
   ]
