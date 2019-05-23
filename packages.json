@@ -113,6 +113,16 @@
     {
       "name": "Generative Models in TF2",
       "url": "https://github.com/timsainb/tensorflow2-generative-models"
+    },
+
+    {
+      "name": "Machine Learning Notes from Prof. Yida Xu",
+      "url": "https://github.com/roboticcam/machine-learning-notes"
+    },
+
+    {
+      "name": "Command line tutorial in one page",
+      "url": "https://github.com/jlevy/the-art-of-command-line"
     }
     
 
