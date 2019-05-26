@@ -42,11 +42,15 @@ name|owner|# stars|description|link
 ## Tutorial  
 name|owner|# stars|description|link
 ---|---|---|---|---
+**Command line tutorial in one page**|jlevy|42,295|Master the command line, in one page|https://github.com/jlevy/the-art-of-command-line
 **500 lines or less**|aosabook|21,569|500 lines or less|https://github.com/aosabook/500lines
 **Python 100 days**|jackfrued|20,391|Python - 100天从新手到大师|https://github.com/jackfrued/Python-100-Days
 **deep learning drizzle**|kmario23|4,746|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!|https://github.com/kmario23/deep-learning-drizzle
+**Machine Learning Notes from Prof. Yida Xu**|roboticcam|2,324|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1000+页)和视频链接|https://github.com/roboticcam/machine-learning-notes
 **tensorflow2_tutorials_chinese**|czy36mengfei|1,450|Tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials|https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
+**NLP-Beginner**|FudanNLP|1,063|Nlp上手教程|https://github.com/FudanNLP/nlp-beginner
 **Tensorflow-2.x-Tutorials**|dragen1860|829|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。|https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+**Generative Models in TF2**|timsainb|452|Implementations of a number of generative models in tensorflow 2. gan, vae, seq2seq, vaegan, gaia, spectrogram inversion. everything is self contained in a jupyter notebook for easy export to colab.|https://github.com/timsainb/tensorflow2-generative-models
  
 
 
