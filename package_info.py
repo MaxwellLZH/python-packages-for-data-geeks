@@ -93,18 +93,22 @@ def convert_info_to_markdown(info):
 
 	s = StringIO()
 	df = pd.DataFrame(info).T
-
-	cols = df.columns
-	df_h = pd.DataFrame([['---',]*len(cols)], columns=cols)
-	df = pd.concat([df_h, df])
 	
 	# formatting for github package
 	df = df[['name', 'owner', 'star_count', 'description', 'url']]
-	df = df.rename(columns={'url': 'link', 'star_count': '# stars'})
+	df = df.rename(columns={'url': 'link', 'star_count': 'stars'})
 	df['name'] = df['name'].apply(lambda x: '**{}**'.format(x) if x != '---' else x)
-	# create a temporary column for sorting by start count, so we don't mess up the formatting
-	df['_tmp'] = df['# stars'].apply(lambda x: 9999999999 if x == '---' else convert_to_float(x))
-	df = df.sort_values('_tmp', ascending=False).drop('_tmp', axis=1)
+	df['link'] = '[Link](' + df['link'] + ')'
+	df['name'] = df['name'] + ' ' + df['link']
+	df = df.drop('link', axis=1)
+
+	# sort packages for start count
+	df = df.sort_values('stars', ascending=False)	
+
+	# add header mark
+	cols = df.columns
+	df_h = pd.DataFrame([['---',]*len(cols)], columns=cols)
+	df = pd.concat([df_h, df])
 
 	df.to_csv(s, sep='|', index=False)
 	return s.getvalue()
