@@ -97,9 +97,9 @@ def convert_info_to_markdown(info):
 	# formatting for github package
 	df = df[['name', 'owner', 'star_count', 'description', 'url']]
 	df = df.rename(columns={'url': 'link', 'star_count': 'stars'})
-	df['name'] = df['name'].apply(lambda x: '**{}**'.format(x) if x != '---' else x)
-	df['link'] = '[Link](' + df['link'] + ')'
-	df['name'] = df['name'] + ' ' + df['link']
+	df['name'] = df['name'].apply(lambda x: '[**{}**]'.format(x) if x != '---' else x)
+	df['link'] = '(' + df['link'] + ')'
+	df['name'] = df['name'] + df['link']
 	df = df.drop('link', axis=1)
 
 	# sort packages for start count
