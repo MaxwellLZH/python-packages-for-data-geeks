@@ -35,6 +35,7 @@ name|owner|stars|description
 ---|---|---|---
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|9,779|Never use print for debugging again
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|335|A python application for tracking, reporting on timing and complexity in python code
+[**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,487|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,417|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1,098|🍦 sweet and creamy print debugging.
  

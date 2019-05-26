@@ -79,7 +79,13 @@
     {
       "name": "wily",
       "url": "https://github.com/tonybaloney/wily"
+    },
+
+    {
+      "name": "hypothesis",
+      "url": "https://github.com/HypothesisWorks/hypothesis"
     }
+
 
   ],
 
