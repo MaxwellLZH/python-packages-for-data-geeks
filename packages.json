@@ -74,6 +74,11 @@
     {
       "name": "icecream - debugging",
       "url": "https://github.com/gruns/icecream"
+    },
+
+    {
+      "name": "wily",
+      "url": "https://github.com/tonybaloney/wily"
     }
 
   ],
