@@ -8,6 +8,7 @@ name|owner|stars|description
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|845|A library of sklearn compatible categorical variable encoders
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6,309|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4,178|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
+[**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
  
 

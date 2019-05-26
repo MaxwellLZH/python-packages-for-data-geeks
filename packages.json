@@ -19,6 +19,11 @@
     {
       "name": "VowpalWabbit",
       "url": "https://github.com/VowpalWabbit/vowpal_wabbit"
+    },
+
+    {
+      "name": "Autograd",
+      "url": "https://github.com/HIPS/autograd"
     }
 
   ],
