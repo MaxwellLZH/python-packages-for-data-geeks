@@ -28,6 +28,7 @@ name|owner|stars|description
 [**Seaborn**](https://github.com/mwaskom/seaborn)|mwaskom|6,043|Statistical data visualization using matplotlib
 [**Plotly**](https://github.com/plotly/plotly.py)|plotly|4,916|An open-source, interactive graphing library for python ✨
 [**folium**](https://github.com/python-visualization/folium)|python-visualization|3,891|Python data. leaflet.js maps.
+[**scikit-plot**](https://github.com/reiinakano/scikit-plot)|reiinakano|1,486|An intuitive library to add plotting functionality to scikit-learn objects.
  
 
 
