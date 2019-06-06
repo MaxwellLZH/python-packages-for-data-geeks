@@ -43,6 +43,11 @@
     {
       "name": "PDPBox",
       "url": "https://github.com/SauceCat/PDPbox"
+    }, 
+
+    {
+      "name": "Tensorwatch",
+      "url": "https://github.com/microsoft/tensorwatch"
     }
   ],
 

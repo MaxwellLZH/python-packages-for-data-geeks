@@ -16,6 +16,7 @@ name|owner|stars|description
 ## Model Interpretation  
 name|owner|stars|description
 ---|---|---|---
+[**Tensorwatch**](https://github.com/microsoft/tensorwatch)|microsoft|986|Debugging, monitoring and visualization for python machine learning and data science
 [**LIME**](https://github.com/marcotcr/lime)|marcotcr|5,674|Lime: explaining the predictions of any machine learning classifier
 [**SHAP**](https://github.com/slundberg/shap)|slundberg|4,594|A unified approach to explain the output of any machine learning model.
 [**PDPBox**](https://github.com/SauceCat/PDPbox)|SauceCat|292|Python partial dependence plot toolbox
