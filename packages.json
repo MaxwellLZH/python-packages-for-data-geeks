@@ -1,5 +1,5 @@
 {
-  "Machine Learning": [
+  "To Build Models": [
     {
       "name": "categorical-encoders",
       "url": "https://github.com/scikit-learn-contrib/categorical-encoding",
@@ -24,6 +24,11 @@
     {
       "name": "Autograd",
       "url": "https://github.com/HIPS/autograd"
+    },
+
+    {
+      "name": "pattern",
+      "url": "https://github.com/clips/pattern"
     }
 
   ],

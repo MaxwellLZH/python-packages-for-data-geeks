@@ -2,10 +2,11 @@
 
 
 
-## Machine Learning  
+## To Build Models  
 name|owner|stars|description
 ---|---|---|---
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|845|A library of sklearn compatible categorical variable encoders
+[**pattern**](https://github.com/clips/pattern)|clips|6,985|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6,309|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4,178|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
