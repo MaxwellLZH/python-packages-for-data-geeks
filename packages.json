@@ -104,6 +104,11 @@
     {
       "name": "hypothesis",
       "url": "https://github.com/HypothesisWorks/hypothesis"
+    },
+
+    {
+      "name": "pyautogui",
+      "url": "https://github.com/asweigart/pyautogui"
     }
 
 
