@@ -29,6 +29,11 @@
     {
       "name": "pattern",
       "url": "https://github.com/clips/pattern"
+    },
+
+    {
+      "name": "stumpy",
+      "url": "https://github.com/TDAmeritrade/stumpy"
     }
 
   ],
