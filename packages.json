@@ -164,6 +164,11 @@
     {
       "name": "Command line tutorial in one page",
       "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+
+    {
+      "name": "Reinforcement-learning-introduction",
+      "url": "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction"
     }
     
 
