@@ -34,6 +34,11 @@
     {
       "name": "stumpy",
       "url": "https://github.com/TDAmeritrade/stumpy"
+    },
+
+    {
+      "name": "stability-selection",
+      "url": "https://github.com/scikit-learn-contrib/stability-selection"
     }
 
   ],
