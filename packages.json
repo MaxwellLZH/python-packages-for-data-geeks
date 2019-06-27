@@ -39,6 +39,11 @@
     {
       "name": "stability-selection",
       "url": "https://github.com/scikit-learn-contrib/stability-selection"
+    },
+
+    {
+      "name": "fancy-impute",
+      "url": "https://github.com/iskandr/fancyimpute"
     }
 
   ],
