@@ -179,6 +179,11 @@
     {
       "name": "Reinforcement-learning-introduction",
       "url": "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction"
+    },
+
+    {
+      "name": "MLAlgorithms",
+      "url": "https://github.com/rushter/MLAlgorithms"
     }
     
 
