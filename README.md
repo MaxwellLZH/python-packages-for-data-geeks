@@ -55,6 +55,7 @@ name|owner|stars|description
 [**Tensorflow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)|dragen1860|829|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。
 [**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7,528|Minimal and clean examples of machine learning algorithms implementations
 [**Reinforcement-learning-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|ShangtongZhang|6,643|Python implementation of reinforcement learning: an introduction
+[**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|568|Machine learning, in numpy
 [**Generative Models in TF2**](https://github.com/timsainb/tensorflow2-generative-models)|timsainb|452|Implementations of a number of generative models in tensorflow 2. gan, vae, seq2seq, vaegan, gaia, spectrogram inversion. everything is self contained in a jupyter notebook for easy export to colab.
 [**Command line tutorial in one page**](https://github.com/jlevy/the-art-of-command-line)|jlevy|42,295|Master the command line, in one page
 [**deep learning drizzle**](https://github.com/kmario23/deep-learning-drizzle)|kmario23|4,746|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!

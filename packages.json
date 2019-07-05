@@ -189,6 +189,11 @@
     {
       "name": "Deep Learning 500 Questions",
       "url": "https://github.com/scutan90/DeepLearning-500-questions"
+    },
+
+    {
+      "name": "numpy-ml",
+      "url": "https://github.com/ddbourgin/numpy-ml"
     }
     
 
