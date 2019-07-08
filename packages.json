@@ -68,6 +68,11 @@
     {
       "name": "Tensorwatch",
       "url": "https://github.com/microsoft/tensorwatch"
+    },
+
+    {
+      "name": "eli5",
+      "url": "https://github.com/TeamHG-Memex/eli5"
     }
   ],
 

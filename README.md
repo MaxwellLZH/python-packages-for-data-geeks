@@ -24,6 +24,7 @@ name|owner|stars|description
 [**LIME**](https://github.com/marcotcr/lime)|marcotcr|5,674|Lime: explaining the predictions of any machine learning classifier
 [**SHAP**](https://github.com/slundberg/shap)|slundberg|4,594|A unified approach to explain the output of any machine learning model.
 [**PDPBox**](https://github.com/SauceCat/PDPbox)|SauceCat|292|Python partial dependence plot toolbox
+[**eli5**](https://github.com/TeamHG-Memex/eli5)|TeamHG-Memex|1,470|A library for debugging/inspecting machine learning classifiers and explaining their predictions
  
 
 
