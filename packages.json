@@ -44,6 +44,11 @@
     {
       "name": "fancy-impute",
       "url": "https://github.com/iskandr/fancyimpute"
+    },
+
+    {
+      "name": "polylearn",
+      "url": "https://github.com/scikit-learn-contrib/polylearn"
     }
 
   ],
