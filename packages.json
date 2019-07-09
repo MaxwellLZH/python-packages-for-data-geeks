@@ -49,6 +49,11 @@
     {
       "name": "polylearn",
       "url": "https://github.com/scikit-learn-contrib/polylearn"
+    },
+
+    {
+      "name": "scikit-features",
+      "url": "https://github.com/jundongl/scikit-feature"
     }
 
   ],

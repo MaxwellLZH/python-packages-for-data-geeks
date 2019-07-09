@@ -6,6 +6,7 @@
 name|owner|stars|description
 ---|---|---|---
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|845|A library of sklearn compatible categorical variable encoders
+[**scikit-features**](https://github.com/jundongl/scikit-feature)|jundongl|775|Open-source feature selection repository in python (dmml lab@asu)
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|685|Multivariate imputation and matrix completion algorithms implemented in python
 [**stability-selection**](https://github.com/scikit-learn-contrib/stability-selection)|scikit-learn-contrib|64|Scikit-learn compatible implementation of stability selection.
 [**pattern**](https://github.com/clips/pattern)|clips|6,985|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
