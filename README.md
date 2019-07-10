@@ -17,6 +17,7 @@ name|owner|stars|description
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|177|A library for factorization machines and polynomial networks for classification and regression in python.
+[**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1,246|Large-scale linear classification, regression and ranking in python
  
 
 

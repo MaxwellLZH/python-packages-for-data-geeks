@@ -59,6 +59,11 @@
     {
       "name": "boruta",
       "url": "https://github.com/scikit-learn-contrib/boruta_py"
+    },
+
+    {
+      "name": "lightning",
+      "url": "https://github.com/scikit-learn-contrib/lightning"
     }
 
   ],
