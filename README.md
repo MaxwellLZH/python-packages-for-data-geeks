@@ -12,6 +12,7 @@ name|owner|stars|description
 [**pattern**](https://github.com/clips/pattern)|clips|6,985|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6,309|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 [**stumpy**](https://github.com/TDAmeritrade/stumpy)|TDAmeritrade|571|Stumpy is a powerful and scalable python library that can be used for a variety of time series data mining tasks
+[**boruta**](https://github.com/scikit-learn-contrib/boruta_py)|scikit-learn-contrib|523|Python implementations of the boruta all-relevant feature selection method.
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4,178|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
