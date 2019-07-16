@@ -64,6 +64,11 @@
     {
       "name": "lightning",
       "url": "https://github.com/scikit-learn-contrib/lightning"
+    },
+
+    {
+      "name": "FATE",
+      "url": "https://github.com/WeBankFinTech/FATE"
     }
 
   ],
