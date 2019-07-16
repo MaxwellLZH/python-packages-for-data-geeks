@@ -149,6 +149,11 @@
     {
       "name": "pyautogui",
       "url": "https://github.com/asweigart/pyautogui"
+    },
+
+    {
+      "name": "xarray",
+      "url": "https://github.com/pydata/xarray"
     }
 
 

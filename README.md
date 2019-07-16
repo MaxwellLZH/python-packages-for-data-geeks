@@ -50,6 +50,7 @@ name|owner|stars|description
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,487|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|2,777|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,417|Jupyter notebooks as markdown documents, julia, python or r scripts
+[**xarray**](https://github.com/pydata/xarray)|pydata|1,336|N-d labeled arrays and datasets in python
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1,098|🍦 sweet and creamy print debugging.
  
 
