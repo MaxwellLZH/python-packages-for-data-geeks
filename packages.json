@@ -219,6 +219,11 @@
     {
       "name": "numpy-ml",
       "url": "https://github.com/ddbourgin/numpy-ml"
+    },
+
+    {
+	  "name": "recommenders",
+	  "url": "https://github.com/microsoft/recommenders"
     }
     
 

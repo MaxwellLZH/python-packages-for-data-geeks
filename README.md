@@ -64,6 +64,7 @@ name|owner|stars|description
 [**Generative Models in TF2**](https://github.com/timsainb/tensorflow2-generative-models)|timsainb|452|Implementations of a number of generative models in tensorflow 2. gan, vae, seq2seq, vaegan, gaia, spectrogram inversion. everything is self contained in a jupyter notebook for easy export to colab.
 [**Command line tutorial in one page**](https://github.com/jlevy/the-art-of-command-line)|jlevy|42,295|Master the command line, in one page
 [**deep learning drizzle**](https://github.com/kmario23/deep-learning-drizzle)|kmario23|4,746|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!
+[**recommenders**](https://github.com/microsoft/recommenders)|microsoft|3,923|Best practices on recommendation systems
 [**Deep Learning 500 Questions**](https://github.com/scutan90/DeepLearning-500-questions)|scutan90|27,289|深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 tan 2018.06
 [**500 lines or less**](https://github.com/aosabook/500lines)|aosabook|21,569|500 lines or less
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|20,391|Python - 100天从新手到大师
