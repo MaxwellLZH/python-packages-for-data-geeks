@@ -229,6 +229,11 @@
     {
 	  "name": "recommenders",
 	  "url": "https://github.com/microsoft/recommenders"
+    },
+
+    {
+      "name": "reinforcement learning",
+      "url": "https://github.com/dalmia/David-Silver-Reinforcement-learning"
     }
     
 
