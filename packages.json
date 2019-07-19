@@ -69,6 +69,11 @@
     {
       "name": "FATE",
       "url": "https://github.com/WeBankFinTech/FATE"
+    },
+
+    {
+      "name": "pytorch-transformers",
+      "url": "https://github.com/huggingface/pytorch-transformers"
     }
 
   ],
