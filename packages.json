@@ -239,6 +239,11 @@
     {
       "name": "reinforcement learning",
       "url": "https://github.com/dalmia/David-Silver-Reinforcement-learning"
+    },
+
+    {
+      "name": "Awesome graph classification",
+      "url": "https://github.com/benedekrozemberczki/awesome-graph-classification"
     }
     
 
