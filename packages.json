@@ -74,6 +74,11 @@
     {
       "name": "pytorch-transformers",
       "url": "https://github.com/huggingface/pytorch-transformers"
+    }, 
+
+    {
+      "name": "mmdetection",
+      "url": "https://github.com/open-mmlab/mmdetection"
     }
 
   ],
