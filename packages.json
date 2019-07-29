@@ -259,6 +259,11 @@
     {
       "name": "wtfpython-cn",
       "url": "https://github.com/leisurelicht/wtfpython-cn"
+    },
+
+    {
+      "name": "Generative Deep Learning",
+      "url": "https://github.com/davidADSP/GDL_code"
     }
     
 

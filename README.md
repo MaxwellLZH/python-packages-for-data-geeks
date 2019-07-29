@@ -63,6 +63,7 @@ name|owner|stars|description
 ---|---|---|---
 [**Tensorflow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)|dragen1860|829|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。
 [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn)|leisurelicht|8,201|Wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+[**Generative Deep Learning**](https://github.com/davidADSP/GDL_code)|davidADSP|75|The official code repository for examples in the o'reilly book 'generative deep learning'
 [**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7,528|Minimal and clean examples of machine learning algorithms implementations
 [**Reinforcement-learning-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|ShangtongZhang|6,643|Python implementation of reinforcement learning: an introduction
 [**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|568|Machine learning, in numpy
