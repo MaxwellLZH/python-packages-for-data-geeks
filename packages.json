@@ -264,6 +264,11 @@
     {
       "name": "Generative Deep Learning",
       "url": "https://github.com/davidADSP/GDL_code"
+    },
+
+    {
+      "name": "GNN Papers",
+      "url": "https://github.com/thunlp/GNNPapers"
     }
     
 
