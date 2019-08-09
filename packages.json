@@ -269,6 +269,11 @@
     {
       "name": "GNN Papers",
       "url": "https://github.com/thunlp/GNNPapers"
+    },
+
+    {
+      "name": "UGATIT",
+      "url": "https://github.com/taki0112/UGATIT"
     }
     
 

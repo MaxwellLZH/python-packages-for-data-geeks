@@ -77,6 +77,7 @@ name|owner|stars|description
 [**500 lines or less**](https://github.com/aosabook/500lines)|aosabook|21,569|500 lines or less
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|20,391|Python - 100天从新手到大师
 [**Machine Learning Notes from Prof. Yida Xu**](https://github.com/roboticcam/machine-learning-notes)|roboticcam|2,324|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1000+页)和视频链接
+[**UGATIT**](https://github.com/taki0112/UGATIT)|taki0112|2,014|Official tensorflow implementation of u-gat-it: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation
 [**Awesome graph classification**](https://github.com/benedekrozemberczki/awesome-graph-classification)|benedekrozemberczki|1,458|A collection of important graph embedding, classification and representation learning papers with implementations.
 [**tensorflow2_tutorials_chinese**](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|czy36mengfei|1,450|Tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
 [**NLP-Beginner**](https://github.com/FudanNLP/nlp-beginner)|FudanNLP|1,063|Nlp上手教程
