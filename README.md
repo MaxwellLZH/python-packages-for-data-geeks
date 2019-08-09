@@ -75,6 +75,7 @@ name|owner|stars|description
 [**recommenders**](https://github.com/microsoft/recommenders)|microsoft|3,923|Best practices on recommendation systems
 [**Deep Learning 500 Questions**](https://github.com/scutan90/DeepLearning-500-questions)|scutan90|27,289|深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 tan 2018.06
 [**500 lines or less**](https://github.com/aosabook/500lines)|aosabook|21,569|500 lines or less
+[**Learn Regex**](https://github.com/ziishaned/learn-regex)|ziishaned|21,429|Learn regex the easy way
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|20,391|Python - 100天从新手到大师
 [**Machine Learning Notes from Prof. Yida Xu**](https://github.com/roboticcam/machine-learning-notes)|roboticcam|2,324|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1000+页)和视频链接
 [**UGATIT**](https://github.com/taki0112/UGATIT)|taki0112|2,014|Official tensorflow implementation of u-gat-it: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation
