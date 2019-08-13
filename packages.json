@@ -169,6 +169,11 @@
     {
       "name": "xarray",
       "url": "https://github.com/pydata/xarray"
+    },
+
+    {
+      "name": "bash-bible",
+      "url": "https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string"
     }
 
 
