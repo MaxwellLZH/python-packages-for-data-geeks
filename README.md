@@ -19,6 +19,7 @@ name|owner|stars|description
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4,178|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
+[**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3,095|Uniform manifold approximation and projection
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|177|A library for factorization machines and polynomial networks for classification and regression in python.
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1,246|Large-scale linear classification, regression and ranking in python
  

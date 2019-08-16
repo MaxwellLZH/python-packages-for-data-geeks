@@ -79,6 +79,11 @@
     {
       "name": "mmdetection",
       "url": "https://github.com/open-mmlab/mmdetection"
+    },
+
+    {
+      "name": "umap",
+      "url": "https://github.com/lmcinnes/umap"
     }
 
   ],
