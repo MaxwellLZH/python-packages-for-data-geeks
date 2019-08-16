@@ -54,6 +54,7 @@ name|owner|stars|description
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|2,777|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,417|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|13,675|📖 a collection of pure bash alternatives to external processes.
+[**handout**](https://github.com/danijar/handout)|danijar|1,584|Turn python scripts into handouts with markdown and figures
 [**xarray**](https://github.com/pydata/xarray)|pydata|1,336|N-d labeled arrays and datasets in python
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1,098|🍦 sweet and creamy print debugging.
  
