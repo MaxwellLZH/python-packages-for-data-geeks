@@ -84,6 +84,11 @@
     {
       "name": "umap",
       "url": "https://github.com/lmcinnes/umap"
+    },
+
+    {
+      "name": "RAdam",
+      "url": "https://github.com/LiyuanLucasLiu/RAdam"
     }
 
   ],
