@@ -194,6 +194,11 @@
     {
       "name": "python-fire",
       "url": "https://github.com/google/python-fire"
+    },
+
+    {
+      "name": "free-apis",
+      "url": "https://github.com/public-apis/public-apis#geocoding"
     }
 
 
