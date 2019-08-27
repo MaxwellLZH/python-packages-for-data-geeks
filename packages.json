@@ -89,6 +89,11 @@
     {
       "name": "RAdam",
       "url": "https://github.com/LiyuanLucasLiu/RAdam"
+    },
+
+    {
+      "name": "skopt",
+      "url": "https://github.com/scikit-optimize/scikit-optimize"
     }
 
   ],
