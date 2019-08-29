@@ -59,6 +59,7 @@ name|owner|stars|description
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,417|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**python-fire**](https://github.com/google/python-fire)|google|14,787|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|13,675|📖 a collection of pure bash alternatives to external processes.
+[**black**](https://github.com/psf/black)|psf|12,288|The uncompromising python code formatter
 [**handout**](https://github.com/danijar/handout)|danijar|1,584|Turn python scripts into handouts with markdown and figures
 [**xarray**](https://github.com/pydata/xarray)|pydata|1,336|N-d labeled arrays and datasets in python
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1,098|🍦 sweet and creamy print debugging.
