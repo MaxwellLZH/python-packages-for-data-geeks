@@ -319,6 +319,11 @@
     {
       "name": "Google Research",
       "url": "https://github.com/google-research/google-research"
+    },
+
+    {
+      "name": "Microsoft NLP examples",
+      "url": "https://github.com/microsoft/nlp"
     }
     
 
