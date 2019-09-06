@@ -214,6 +214,11 @@
     {
       "name": "black",
       "url": "https://github.com/psf/black"
+    },
+
+    {
+      "name": "break-capcha",
+      "url": "https://github.com/zhaipro/easy12306"
     }
 
 

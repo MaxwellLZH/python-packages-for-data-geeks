@@ -56,6 +56,7 @@ name|owner|stars|description
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|60,265|A collective list of free apis for use in software and web development.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|335|A python application for tracking, reporting on timing and complexity in python code
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,487|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+[**break-capcha**](https://github.com/zhaipro/easy12306)|zhaipro|267|使用机器学习算法完成对12306验证码的自动识别
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|2,777|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,417|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**python-fire**](https://github.com/google/python-fire)|google|14,787|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
