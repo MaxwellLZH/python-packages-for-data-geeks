@@ -94,6 +94,11 @@
     {
       "name": "skopt",
       "url": "https://github.com/scikit-optimize/scikit-optimize"
+    },
+
+    {
+      "name": "ckiptagger",
+      "url": "https://github.com/ckiplab/ckiptagger"
     }
 
   ],
