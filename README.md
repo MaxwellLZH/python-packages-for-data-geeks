@@ -97,6 +97,13 @@ name|owner|stars|description
  
 
 
+## Fun Stuff  
+name|owner|stars|description
+---|---|---|---
+[**tf-quant**](https://github.com/google/tf-quant-finance)|google|437|High-performance tensorflow library for quantitative finance.
+ 
+
+
 
 
 ## Contribution Guide
