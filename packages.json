@@ -349,6 +349,11 @@
     {
       "name": "tf-quant",
       "url" : "https://github.com/google/tf-quant-finance"
+    },
+
+    {
+      "name": "tiler",
+      "url": "https://github.com/nuno-faria/tiler"
     }
 
   ]

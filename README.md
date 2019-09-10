@@ -101,6 +101,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**tf-quant**](https://github.com/google/tf-quant-finance)|google|437|High-performance tensorflow library for quantitative finance.
+[**tiler**](https://github.com/nuno-faria/tiler)|nuno-faria|1,452|👷 build images with images
  
 
 
