@@ -90,6 +90,7 @@ name|owner|stars|description
 [**Google Research**](https://github.com/google-research/google-research)|google-research|2,779|Google ai research
 [**Machine Learning Notes from Prof. Yida Xu**](https://github.com/roboticcam/machine-learning-notes)|roboticcam|2,324|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1000+页)和视频链接
 [**UGATIT**](https://github.com/taki0112/UGATIT)|taki0112|2,014|Official tensorflow implementation of u-gat-it: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation
+[**Data Science Tutorial notebook**](https://github.com/donnemartin/data-science-ipython-notebooks)|donnemartin|16,699|Data science python notebooks: deep learning (tensorflow, theano, caffe, keras), scikit-learn, kaggle, big data (spark, hadoop mapreduce, hdfs), matplotlib, pandas, numpy, scipy, python essentials, aws, and various command lines.
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|159|Natural language processing best practices & examples
 [**Awesome graph classification**](https://github.com/benedekrozemberczki/awesome-graph-classification)|benedekrozemberczki|1,458|A collection of important graph embedding, classification and representation learning papers with implementations.
 [**tensorflow2_tutorials_chinese**](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|czy36mengfei|1,450|Tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials

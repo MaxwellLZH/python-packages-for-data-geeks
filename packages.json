@@ -339,6 +339,11 @@
     {
       "name": "Microsoft NLP examples",
       "url": "https://github.com/microsoft/nlp"
+    },
+
+    {
+      "name": "Data Science Tutorial notebook",
+      "url": "https://github.com/donnemartin/data-science-ipython-notebooks"
     }
     
 
