@@ -22,6 +22,7 @@ name|owner|stars|description
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|3,808|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3,095|Uniform manifold approximation and projection
+[**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2,485|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|177|A library for factorization machines and polynomial networks for classification and regression in python.
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1,461|Sequential model-based optimization with a `scipy.optimize` interface
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1,246|Large-scale linear classification, regression and ranking in python
