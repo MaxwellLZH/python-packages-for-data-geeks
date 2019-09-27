@@ -234,6 +234,12 @@
     {
       "name": "break-capcha",
       "url": "https://github.com/zhaipro/easy12306"
+    },
+
+
+    {
+      "name": "GNE",
+      "url": "https://github.com/kingname/GeneralNewsExtractor"
     }
 
 

@@ -57,6 +57,7 @@ name|owner|stars|description
 ---|---|---|---
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|9,779|Never use print for debugging again
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|60,265|A collective list of free apis for use in software and web development.
+[**GNE**](https://github.com/kingname/GeneralNewsExtractor)|kingname|545|新闻网页正文通用抽取器 alpha 版.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|335|A python application for tracking, reporting on timing and complexity in python code
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,487|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**break-capcha**](https://github.com/zhaipro/easy12306)|zhaipro|267|使用机器学习算法完成对12306验证码的自动识别
