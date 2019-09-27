@@ -109,7 +109,13 @@
     {
       "name": "minepy",
       "url": "https://github.com/minepy/minepy"
+    },
+
+    {
+      "name": "mlens",
+      "url": "https://github.com/flennerhag/mlens"
     }
+    
   ],
 
   "Model Interpretation": [
