@@ -5,6 +5,7 @@
 ## To Build Models  
 name|owner|stars|description
 ---|---|---|---
+[**imagededupe**](https://github.com/idealo/imagededup)|idealo|915|😎 finding duplicate images made easy!
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|845|A library of sklearn compatible categorical variable encoders
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|8,993|👾 a library of state-of-the-art pretrained models for natural language processing (nlp)
 [**scikit-features**](https://github.com/jundongl/scikit-feature)|jundongl|775|Open-source feature selection repository in python (dmml lab@asu)
@@ -24,6 +25,7 @@ name|owner|stars|description
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,373|Automated machine learning with scikit-learn
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3,095|Uniform manifold approximation and projection
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2,485|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
+[**streamlit**](https://github.com/streamlit/streamlit)|streamlit|2,045|Streamlit — the fastest way to build custom ml tools
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|177|A library for factorization machines and polynomial networks for classification and regression in python.
 [**minepy**](https://github.com/minepy/minepy)|minepy|108|Minepy - maximal information-based nonparametric exploration
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1,461|Sequential model-based optimization with a `scipy.optimize` interface

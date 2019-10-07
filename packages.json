@@ -114,6 +114,16 @@
     {
       "name": "mlens",
       "url": "https://github.com/flennerhag/mlens"
+    },
+
+    {
+      "name": "streamlit",
+      "url": "https://github.com/streamlit/streamlit"
+    },
+
+    {
+      "name": "imagededupe",
+      "url": "https://github.com/idealo/imagededup"
     }
     
   ],
