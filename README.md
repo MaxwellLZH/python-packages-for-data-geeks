@@ -9,6 +9,7 @@ name|owner|stars|description
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|8,993|👾 a library of state-of-the-art pretrained models for natural language processing (nlp)
 [**scikit-features**](https://github.com/jundongl/scikit-feature)|jundongl|775|Open-source feature selection repository in python (dmml lab@asu)
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|726|Ckip neural chinese word segmentation, pos tagging, and ner
+[**NGBoost**](https://github.com/stanfordmlgroup/ngboost.git)|stanfordmlgroup|72|Natural gradient boosting for probabilistic prediction
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|685|Multivariate imputation and matrix completion algorithms implemented in python
 [**stability-selection**](https://github.com/scikit-learn-contrib/stability-selection)|scikit-learn-contrib|64|Scikit-learn compatible implementation of stability selection.
 [**pattern**](https://github.com/clips/pattern)|clips|6,985|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.

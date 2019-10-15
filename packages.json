@@ -114,6 +114,11 @@
     {
       "name": "mlens",
       "url": "https://github.com/flennerhag/mlens"
+    },
+
+    {
+      "name": "NGBoost",
+      "url": "https://github.com/stanfordmlgroup/ngboost.git"
     }
     
   ],
