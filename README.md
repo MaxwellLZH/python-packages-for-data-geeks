@@ -107,6 +107,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**tf-quant**](https://github.com/google/tf-quant-finance)|google|437|High-performance tensorflow library for quantitative finance.
+[**Light Facial Detection**](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)|Linzaer|1,810|💎 1mb轻量级通用人脸检测模型
 [**tiler**](https://github.com/nuno-faria/tiler)|nuno-faria|1,452|👷 build images with images
  
 

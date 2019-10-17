@@ -385,6 +385,11 @@
     {
       "name": "tiler",
       "url": "https://github.com/nuno-faria/tiler"
+    },
+
+    {
+      "name": "Light Facial Detection",
+      "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB"
     }
 
   ]
