@@ -119,6 +119,16 @@
     {
       "name": "NGBoost",
       "url": "https://github.com/stanfordmlgroup/ngboost.git"
+    },
+
+    {
+      "name": "streamlit",
+      "url": "https://github.com/streamlit/streamlit"
+    },
+
+    {
+      "name": "imagededupe",
+      "url": "https://github.com/idealo/imagededup"
     }
     
   ],
