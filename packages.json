@@ -255,6 +255,11 @@
     {
       "name": "GNE",
       "url": "https://github.com/kingname/GeneralNewsExtractor"
+    },
+
+    {
+      "name": "poetry",
+      "url": "https://github.com/sdispater/poetry"
     }
 
 
