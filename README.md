@@ -24,6 +24,7 @@ name|owner|stars|description
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2,526|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2,255|😎 finding duplicate images made easy!
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|187|A library for factorization machines and polynomial networks for classification and regression in python.
+[**dirty-cat**](https://github.com/dirty-cat/dirty_cat/)|dirty-cat|153|Encoding methods for dirty categorical variables
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|15,312|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
 [**minepy**](https://github.com/minepy/minepy)|minepy|111|Minepy - maximal information-based nonparametric exploration
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1,652|On the variance of the adaptive learning rate and beyond
