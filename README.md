@@ -30,6 +30,7 @@ name|owner|stars|description
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1,652|On the variance of the adaptive learning rate and beyond
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1,524|Sequential model-based optimization with a `scipy.optimize` interface
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1,283|Large-scale linear classification, regression and ranking in python
+[**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1,105|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1,078|A library of sklearn compatible categorical variable encoders
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1,062|Ckip neural chinese word segmentation, pos tagging, and ner
  
