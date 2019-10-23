@@ -395,6 +395,11 @@
     {
       "name": "Data Science Tutorial notebook",
       "url": "https://github.com/donnemartin/data-science-ipython-notebooks"
+    },
+
+    {
+      "name": "Keras Text classification",
+      "url": "https://github.com/yongzhuo/Keras-TextClassification"
     }
     
 
