@@ -11,6 +11,7 @@ name|owner|stars|description
 [**scikit-features**](https://github.com/jundongl/scikit-feature)|jundongl|823|Open-source feature selection repository in python (dmml lab@asu)
 [**stumpy**](https://github.com/TDAmeritrade/stumpy)|TDAmeritrade|809|Stumpy is a powerful and scalable python library that can be used for a variety of time series data mining tasks
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|719|Multivariate imputation and matrix completion algorithms implemented in python
+[**gluon-ts**](https://github.com/awslabs/gluon-ts)|awslabs|702|Gluonts - probabilistic time series modeling in python
 [**pattern**](https://github.com/clips/pattern)|clips|7,170|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**mmdetection**](https://github.com/open-mmlab/mmdetection)|open-mmlab|6,784|Open mmlab detection toolbox and benchmark
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6,652|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
