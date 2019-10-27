@@ -144,6 +144,11 @@
     {
       "name": "gluon-ts",
       "url": "https://github.com/awslabs/gluon-ts"
+    },
+
+    {
+      "name": "dgl",
+      "url": "https://github.com/dmlc/dgl"
     }
     
   ],
@@ -405,6 +410,11 @@
     {
       "name": "Keras Text classification",
       "url": "https://github.com/yongzhuo/Keras-TextClassification"
+    },
+
+    {
+      "name": "Graph neural network implementation by Microsoft",
+      "url": "https://github.com/microsoft/tf-gnn-samples"
     }
     
 
