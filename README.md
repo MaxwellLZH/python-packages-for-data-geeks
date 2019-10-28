@@ -66,6 +66,7 @@ name|owner|stars|description
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|63,705|A collective list of free apis for use in software and web development.
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|6,429|Python dependency management and packaging made easy.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|414|A python application for tracking, reporting on timing and complexity in python code
+[**mlflow**](https://github.com/mlflow/mlflow)|mlflow|4,999|Open source platform for the machine learning lifecycle
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,847|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3,136|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|22,619|📖 a collection of pure bash alternatives to external processes.

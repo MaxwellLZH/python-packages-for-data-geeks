@@ -280,6 +280,11 @@
     {
       "name": "poetry",
       "url": "https://github.com/sdispater/poetry"
+    },
+
+    {
+      "name": "mlflow",
+      "url": "https://github.com/mlflow/mlflow"
     }
 
 
