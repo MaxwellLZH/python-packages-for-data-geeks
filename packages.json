@@ -285,6 +285,11 @@
     {
       "name": "mlflow",
       "url": "https://github.com/mlflow/mlflow"
+    },
+
+    {
+      "name": "free api",
+      "url": "https://github.com/fangzesheng/free-api"
     }
 
 

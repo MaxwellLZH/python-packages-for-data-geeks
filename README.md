@@ -65,6 +65,7 @@ name|owner|stars|description
 [**GNE**](https://github.com/kingname/GeneralNewsExtractor)|kingname|753|新闻网页正文通用抽取器 alpha 版.
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|63,705|A collective list of free apis for use in software and web development.
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|6,429|Python dependency management and packaging made easy.
+[**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6,104|收集免费的接口服务,做一个api的搬运工
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|414|A python application for tracking, reporting on timing and complexity in python code
 [**mlflow**](https://github.com/mlflow/mlflow)|mlflow|4,999|Open source platform for the machine learning lifecycle
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,847|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
