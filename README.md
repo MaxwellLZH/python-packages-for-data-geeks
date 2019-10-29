@@ -109,6 +109,7 @@ name|owner|stars|description
 [**NLP-Beginner**](https://github.com/FudanNLP/nlp-beginner)|FudanNLP|2,142|Nlp上手教程
 [**Tensorflow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)|dragen1860|2,091|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。
 [**Data Science Tutorial notebook**](https://github.com/donnemartin/data-science-ipython-notebooks)|donnemartin|17,197|Data science python notebooks: deep learning (tensorflow, theano, caffe, keras), scikit-learn, kaggle, big data (spark, hadoop mapreduce, hdfs), matplotlib, pandas, numpy, scipy, python essentials, aws, and various command lines.
+[**Awesome tensorflow**](https://github.com/jtoy/awesome-tensorflow)|jtoy|15,206|Tensorflow - a curated list of dedicated resources http://tensorflow.org
 [**Graph neural network implementation by Microsoft**](https://github.com/microsoft/tf-gnn-samples)|microsoft|121|Tensorflow implementations of graph neural networks
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|1,730|Natural language processing best practices & examples
  

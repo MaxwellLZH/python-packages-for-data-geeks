@@ -425,6 +425,11 @@
     {
       "name": "Graph neural network implementation by Microsoft",
       "url": "https://github.com/microsoft/tf-gnn-samples"
+    },
+
+    {
+      "name": "Awesome tensorflow",
+      "url": "https://github.com/jtoy/awesome-tensorflow"
     }
     
 
