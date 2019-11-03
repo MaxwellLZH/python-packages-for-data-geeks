@@ -149,6 +149,11 @@
     {
       "name": "dgl",
       "url": "https://github.com/dmlc/dgl"
+    },
+
+    {
+      "name": "graph_nets",
+      "url": "https://github.com/deepmind/graph_nets"
     }
     
   ],
