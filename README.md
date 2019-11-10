@@ -20,6 +20,7 @@ name|owner|stars|description
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4,538|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|4,312|Efficiently computes derivatives of numpy code.
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.8k|Build graph nets in tensorflow
+[**sentencepiece**](https://github.com/google/sentencepiece)|google|3.2k|Unsupervised text tokenizer for neural network-based text generation.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|3,967|Automated machine learning with scikit-learn
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3,267|Uniform manifold approximation and projection
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3,140|Python package built to ease deep learning on graph, on top of existing dl frameworks.
