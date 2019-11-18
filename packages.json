@@ -310,6 +310,11 @@
     {
       "name": "modlin",
       "url": "https://github.com/modin-project/modin"
+    },
+
+    {
+      "name": "plato",
+      "url": "https://github.com/Tencent/plato"
     }
 
 
