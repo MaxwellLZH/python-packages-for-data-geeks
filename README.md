@@ -71,6 +71,7 @@ name|owner|stars|description
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6,104|收集免费的接口服务,做一个api的搬运工
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|414|A python application for tracking, reporting on timing and complexity in python code
 [**mlflow**](https://github.com/mlflow/mlflow)|mlflow|4,999|Open source platform for the machine learning lifecycle
+[**modlin**](https://github.com/modin-project/modin)|modin-project|3.1k|Modin: speed up your pandas workflows by changing a single line of code
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,847|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3,136|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|22,619|📖 a collection of pure bash alternatives to external processes.
