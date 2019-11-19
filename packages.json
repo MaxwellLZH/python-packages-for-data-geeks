@@ -308,7 +308,7 @@
     },
 
     {
-      "name": "modlin",
+      "name": "modin",
       "url": "https://github.com/modin-project/modin"
     },
 
@@ -475,6 +475,11 @@
     {
       "name": "Light Facial Detection",
       "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB"
+    },
+
+    {
+      "name": "Hacking neural nets",
+      "url": "https://github.com/Kayzaks/HackingNeuralNetworks"
     }
 
   ]
