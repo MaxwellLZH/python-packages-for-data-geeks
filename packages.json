@@ -286,7 +286,6 @@
       "url": "https://github.com/zhaipro/easy12306"
     },
 
-
     {
       "name": "GNE",
       "url": "https://github.com/kingname/GeneralNewsExtractor"
@@ -320,6 +319,11 @@
     {
       "name": "urwind",
       "url": "https://github.com/urwid/urwid"
+    },
+
+    {
+      "name": "papermill",
+      "url": "https://github.com/nteract/papermill/"
     }
 
 

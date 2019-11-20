@@ -76,6 +76,7 @@ name|owner|stars|description
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|3,847|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3,136|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|22,619|📖 a collection of pure bash alternatives to external processes.
+[**papermill**](https://github.com/nteract/papermill/)|nteract|2.7k|📚 parameterize, execute, and analyze notebooks
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|2,858|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**python-fire**](https://github.com/google/python-fire)|google|15,495|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
 [**black**](https://github.com/psf/black)|psf|12,943|The uncompromising python code formatter
