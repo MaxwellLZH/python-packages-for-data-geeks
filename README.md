@@ -80,6 +80,7 @@ name|owner|stars|description
 [**python-fire**](https://github.com/google/python-fire)|google|15,495|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
 [**black**](https://github.com/psf/black)|psf|12,943|The uncompromising python code formatter
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|12,742|Never use print for debugging again
+[**urwind**](https://github.com/urwid/urwid)|urwid|1.7k|Console user interface library for python (official repo)
 [**handout**](https://github.com/danijar/handout)|danijar|1,777|Turn python scripts into handouts with markdown and figures
 [**xarray**](https://github.com/pydata/xarray)|pydata|1,405|N-d labeled arrays and datasets in python
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1,393|🍦 sweet and creamy print debugging.
