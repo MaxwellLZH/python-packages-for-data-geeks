@@ -469,6 +469,11 @@
     {
       "name": "Awesome tensorflow",
       "url": "https://github.com/jtoy/awesome-tensorflow"
+    },
+
+    {
+      "name": "openNRE",
+      "url": "https://github.com/thunlp/OpenNRE"
     }
     
 
