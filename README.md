@@ -32,6 +32,7 @@ name|owner|stars|description
 [**dirty-cat**](https://github.com/dirty-cat/dirty_cat/)|dirty-cat|153|Encoding methods for dirty categorical variables
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|15,312|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
 [**minepy**](https://github.com/minepy/minepy)|minepy|111|Minepy - maximal information-based nonparametric exploration
+[**Metrics**](https://github.com/benhamner/Metrics)|benhamner|1.2k|Machine learning evaluation metrics, implemented in python, r, haskell, and matlab / octave
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1,652|On the variance of the adaptive learning rate and beyond
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1,524|Sequential model-based optimization with a `scipy.optimize` interface
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1,283|Large-scale linear classification, regression and ranking in python
