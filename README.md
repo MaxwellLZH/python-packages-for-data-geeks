@@ -27,6 +27,7 @@ name|owner|stars|description
 [**streamlit**](https://github.com/streamlit/streamlit)|streamlit|3,025|Streamlit — the fastest way to build custom ml tools
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2,526|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2,255|😎 finding duplicate images made easy!
+[**jiagu**](https://github.com/ownthink/Jiagu)|ownthink|1k|Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|187|A library for factorization machines and polynomial networks for classification and regression in python.
 [**dirty-cat**](https://github.com/dirty-cat/dirty_cat/)|dirty-cat|153|Encoding methods for dirty categorical variables
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|15,312|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
