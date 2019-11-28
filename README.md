@@ -13,6 +13,7 @@ name|owner|stars|description
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|719|Multivariate imputation and matrix completion algorithms implemented in python
 [**gluon-ts**](https://github.com/awslabs/gluon-ts)|awslabs|702|Gluonts - probabilistic time series modeling in python
 [**pattern**](https://github.com/clips/pattern)|clips|7,170|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+[**tpot**](https://github.com/EpistasisLab/tpot)|EpistasisLab|6.5k|A python automated machine learning tool that optimizes machine learning pipelines using genetic programming.
 [**mmdetection**](https://github.com/open-mmlab/mmdetection)|open-mmlab|6,784|Open mmlab detection toolbox and benchmark
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6,652|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 [**boruta**](https://github.com/scikit-learn-contrib/boruta_py)|scikit-learn-contrib|595|Python implementations of the boruta all-relevant feature selection method.
