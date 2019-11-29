@@ -484,6 +484,11 @@
     {
       "name": "openNRE",
       "url": "https://github.com/thunlp/OpenNRE"
+    },
+
+    {
+      "name": "Dimensional reduction algos",
+      "url": "https://github.com/heucoder/dimensionality_reduction_alo_codes"
     }
     
 
