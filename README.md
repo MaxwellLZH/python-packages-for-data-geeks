@@ -97,8 +97,8 @@ name|owner|stars|description
 ---|---|---|---
 [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn)|leisurelicht|9.2k|Wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|70.8k|Python - 100天从新手到大师
-[**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|7.8k|Machine learning, in numpy
 [**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7.8k|Minimal and clean examples of machine learning algorithms implementations
+[**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|7.8k|Machine learning, in numpy
 [**Reinforcement-learning-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|ShangtongZhang|7.7k|Python implementation of reinforcement learning: an introduction
 [**deep learning drizzle**](https://github.com/kmario23/deep-learning-drizzle)|kmario23|7.1k|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!
 [**Google Research**](https://github.com/google-research/google-research)|google-research|6k|Google ai research
@@ -123,6 +123,7 @@ name|owner|stars|description
 [**Data Science Tutorial notebook**](https://github.com/donnemartin/data-science-ipython-notebooks)|donnemartin|17.7k|Data science python notebooks: deep learning (tensorflow, theano, caffe, keras), scikit-learn, kaggle, big data (spark, hadoop mapreduce, hdfs), matplotlib, pandas, numpy, scipy, python essentials, aws, and various command lines.
 [**Graph neural network implementation by Microsoft**](https://github.com/microsoft/tf-gnn-samples)|microsoft|161|Tensorflow implementations of graph neural networks
 [**Awesome tensorflow**](https://github.com/jtoy/awesome-tensorflow)|jtoy|15.3k|Tensorflow - a curated list of dedicated resources http://tensorflow.org
+[**NLP progress**](https://github.com/sebastianruder/NLP-progress)|sebastianruder|13k|Repository to track the progress in natural language processing (nlp), including the datasets and the current state-of-the-art for the most common nlp tasks.
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|1.9k|Natural language processing best practices & examples
  
 

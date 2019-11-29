@@ -489,6 +489,11 @@
     {
       "name": "Dimensional reduction algos",
       "url": "https://github.com/heucoder/dimensionality_reduction_alo_codes"
+    },
+
+    {
+      "name": "NLP progress",
+      "url": "https://github.com/sebastianruder/NLP-progress"
     }
     
 
