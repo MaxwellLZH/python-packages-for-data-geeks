@@ -519,6 +519,11 @@
     {
       "name": "Hacking neural nets",
       "url": "https://github.com/Kayzaks/HackingNeuralNetworks"
+    },
+
+    {
+      "name": "funNLP",
+      "url": "https://github.com/fighting41love/funNLP"
     }
 
   ]
