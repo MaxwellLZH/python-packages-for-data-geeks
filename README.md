@@ -72,6 +72,7 @@ name|owner|stars|description
 [**plato**](https://github.com/Tencent/plato)|Tencent|874|腾讯高性能分布式图计算框架plato
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|65.9k|A collective list of free apis for use in software and web development.
+[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工
 [**mlflow**](https://github.com/mlflow/mlflow)|mlflow|5.3k|Open source platform for the machine learning lifecycle
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|4k|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
