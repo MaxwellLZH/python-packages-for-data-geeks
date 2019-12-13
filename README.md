@@ -126,6 +126,7 @@ name|owner|stars|description
 [**Awesome tensorflow**](https://github.com/jtoy/awesome-tensorflow)|jtoy|15.3k|Tensorflow - a curated list of dedicated resources http://tensorflow.org
 [**NLP progress**](https://github.com/sebastianruder/NLP-progress)|sebastianruder|13k|Repository to track the progress in natural language processing (nlp), including the datasets and the current state-of-the-art for the most common nlp tasks.
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|1.9k|Natural language processing best practices & examples
+[**anomaly detection**](https://github.com/yzhao062/anomaly-detection-resources)|yzhao062|1.9k|Anomaly detection related books, papers, videos, and toolboxes
  
 
 

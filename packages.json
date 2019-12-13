@@ -499,6 +499,11 @@
     {
       "name": "NLP progress",
       "url": "https://github.com/sebastianruder/NLP-progress"
+    },
+
+    {
+      "name": "anomaly detection",
+      "url": "https://github.com/yzhao062/anomaly-detection-resources"
     }
     
 
