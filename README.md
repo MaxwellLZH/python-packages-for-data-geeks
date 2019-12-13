@@ -72,14 +72,15 @@ name|owner|stars|description
 [**plato**](https://github.com/Tencent/plato)|Tencent|874|腾讯高性能分布式图计算框架plato
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|65.9k|A collective list of free apis for use in software and web development.
-[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工
+[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**mlflow**](https://github.com/mlflow/mlflow)|mlflow|5.3k|Open source platform for the machine learning lifecycle
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|4k|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|445|A python application for tracking, reporting on timing and complexity in python code
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|3k|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**modin**](https://github.com/modin-project/modin)|modin-project|3.6k|Modin: speed up your pandas workflows by changing a single line of code
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3.2k|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
+[**metaflow**](https://github.com/Netflix/metaflow)|Netflix|2k|Build and manage real-life data science projects with ease.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|23.3k|📖 a collection of pure bash alternatives to external processes.
 [**papermill**](https://github.com/nteract/papermill/)|nteract|2.7k|📚 parameterize, execute, and analyze notebooks
 [**python-fire**](https://github.com/google/python-fire)|google|15.8k|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
