@@ -509,6 +509,11 @@
     {
       "name": "anomaly detection",
       "url": "https://github.com/yzhao062/anomaly-detection-resources"
+    },
+
+    {
+      "name": "scikit-opt",
+      "url": "https://github.com/guofei9987/scikit-opt"
     }
     
 
