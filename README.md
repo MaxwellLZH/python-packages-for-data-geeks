@@ -22,8 +22,8 @@ name|owner|stars|description
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|4.1k|Automated machine learning with scikit-learn
 [**NGBoost**](https://github.com/stanfordmlgroup/ngboost.git)|stanfordmlgroup|335|Natural gradient boosting for probabilistic prediction
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.9k|Build graph nets in tensorflow
-[**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
+[**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2.7k|😎 finding duplicate images made easy!
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2.6k|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
@@ -36,6 +36,7 @@ name|owner|stars|description
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1.8k|On the variance of the adaptive learning rate and beyond
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1.6k|Sequential model-based optimization with a `scipy.optimize` interface
+[**optuna**](https://github.com/optuna/optuna)|optuna|1.5k|A hyperparameter optimization framework
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1.3k|Large-scale linear classification, regression and ranking in python
 [**Metrics**](https://github.com/benhamner/Metrics)|benhamner|1.2k|Machine learning evaluation metrics, implemented in python, r, haskell, and matlab / octave
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
