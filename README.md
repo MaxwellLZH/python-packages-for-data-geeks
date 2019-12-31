@@ -18,6 +18,7 @@ name|owner|stars|description
 [**mlens**](https://github.com/flennerhag/mlens)|flennerhag|553|Ml-ensemble – high performance ensemble learning
 [**streamlit**](https://github.com/streamlit/streamlit)|streamlit|5.4k|Streamlit — the fastest way to build custom ml tools
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4.6k|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
+[**nnl**](https://github.com/microsoft/nni)|microsoft|4.5k|An open source automl toolkit for neural architecture search, model compression and hyper-parameter tuning.
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|4.4k|Efficiently computes derivatives of numpy code.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|4.1k|Automated machine learning with scikit-learn
 [**NGBoost**](https://github.com/stanfordmlgroup/ngboost.git)|stanfordmlgroup|335|Natural gradient boosting for probabilistic prediction
@@ -26,8 +27,8 @@ name|owner|stars|description
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2.7k|😎 finding duplicate images made easy!
-[**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2.6k|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
 [**imutils**](https://github.com/jrosebr1/imutils)|jrosebr1|2.6k|A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying matplotlib images easier with opencv and python.
+[**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2.6k|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
 [**jiagu**](https://github.com/ownthink/Jiagu)|ownthink|1k|Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|191|A library for factorization machines and polynomial networks for classification and regression in python.
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|17.8k|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
@@ -39,9 +40,9 @@ name|owner|stars|description
 [**optuna**](https://github.com/optuna/optuna)|optuna|1.5k|A hyperparameter optimization framework
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1.3k|Large-scale linear classification, regression and ranking in python
 [**Metrics**](https://github.com/benhamner/Metrics)|benhamner|1.2k|Machine learning evaluation metrics, implemented in python, r, haskell, and matlab / octave
-[**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
-[**FATE**](https://github.com/WeBankFinTech/FATE)|FederatedAI|1.1k|An industrial level federated learning framework
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1.1k|A library of sklearn compatible categorical variable encoders
+[**FATE**](https://github.com/WeBankFinTech/FATE)|FederatedAI|1.1k|An industrial level federated learning framework
+[**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
  
 
 
