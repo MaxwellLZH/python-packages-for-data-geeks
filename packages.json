@@ -189,6 +189,11 @@
     {
       "name": "nnl",
       "url": "https://github.com/microsoft/nni"
+    },
+
+    {
+      "name": "AnomalyDetection",
+      "url": "https://github.com/twitter/AnomalyDetection"
     }
     
   ],

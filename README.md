@@ -26,6 +26,7 @@ name|owner|stars|description
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
+[**AnomalyDetection**](https://github.com/twitter/AnomalyDetection)|twitter|3.1k|Anomaly detection with r
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2.7k|😎 finding duplicate images made easy!
 [**imutils**](https://github.com/jrosebr1/imutils)|jrosebr1|2.6k|A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying matplotlib images easier with opencv and python.
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2.6k|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
