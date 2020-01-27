@@ -246,6 +246,11 @@
     {
       "name": "altair",
       "url": "https://github.com/altair-viz/altair"
+    },
+
+    {
+      "name": "Dash",
+      "url": "https://github.com/plotly/dash"
     }
   ],
 
