@@ -14,6 +14,7 @@ name|owner|stars|description
 [**pattern**](https://github.com/clips/pattern)|clips|7.2k|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**boruta**](https://github.com/scikit-learn-contrib/boruta_py)|scikit-learn-contrib|615|Python implementations of the boruta all-relevant feature selection method.
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6.7k|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+[**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**tpot**](https://github.com/EpistasisLab/tpot)|EpistasisLab|6.5k|A python automated machine learning tool that optimizes machine learning pipelines using genetic programming.
 [**mlens**](https://github.com/flennerhag/mlens)|flennerhag|553|Ml-ensemble – high performance ensemble learning
 [**streamlit**](https://github.com/streamlit/streamlit)|streamlit|5.4k|Streamlit — the fastest way to build custom ml tools
@@ -41,9 +42,9 @@ name|owner|stars|description
 [**optuna**](https://github.com/optuna/optuna)|optuna|1.5k|A hyperparameter optimization framework
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1.3k|Large-scale linear classification, regression and ranking in python
 [**Metrics**](https://github.com/benhamner/Metrics)|benhamner|1.2k|Machine learning evaluation metrics, implemented in python, r, haskell, and matlab / octave
-[**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1.1k|A library of sklearn compatible categorical variable encoders
-[**FATE**](https://github.com/WeBankFinTech/FATE)|FederatedAI|1.1k|An industrial level federated learning framework
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
+[**FATE**](https://github.com/WeBankFinTech/FATE)|FederatedAI|1.1k|An industrial level federated learning framework
+[**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1.1k|A library of sklearn compatible categorical variable encoders
  
 
 

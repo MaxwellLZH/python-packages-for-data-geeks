@@ -194,6 +194,11 @@
     {
       "name": "AnomalyDetection",
       "url": "https://github.com/twitter/AnomalyDetection"
+    },
+
+    {
+      "name": "Chinese Word Embeddings",
+      "url": "https://github.com/Embedding/Chinese-Word-Vectors"
     }
     
   ],
