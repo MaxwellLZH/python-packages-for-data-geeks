@@ -13,6 +13,7 @@ name|owner|stars|description
 [**mmdetection**](https://github.com/open-mmlab/mmdetection)|open-mmlab|7.4k|Open mmlab detection toolbox and benchmark
 [**pattern**](https://github.com/clips/pattern)|clips|7.2k|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**boruta**](https://github.com/scikit-learn-contrib/boruta_py)|scikit-learn-contrib|615|Python implementations of the boruta all-relevant feature selection method.
+[**annoy**](https://github.com/spotify/annoy)|spotify|6.7k|Approximate nearest neighbors in c++/python optimized for memory usage and loading/saving to disk
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6.7k|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 [**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**tpot**](https://github.com/EpistasisLab/tpot)|EpistasisLab|6.5k|A python automated machine learning tool that optimizes machine learning pipelines using genetic programming.
