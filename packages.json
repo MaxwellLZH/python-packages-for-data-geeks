@@ -266,6 +266,11 @@
     {
       "name": "Dash",
       "url": "https://github.com/plotly/dash"
+    },
+
+    {
+      "name": "CNN-Visualizer",
+      "url": "https://github.com/poloclub/cnn-explainer"
     }
   ],
 

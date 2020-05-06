@@ -69,6 +69,7 @@ name|owner|stars|description
 [**altair**](https://github.com/altair-viz/altair)|altair-viz|4.3k|Declarative statistical visualization library for python
 [**Dash**](https://github.com/plotly/dash)|plotly|10.8k|Analytical web apps for python & r. no javascript required.
 [**scikit-plot**](https://github.com/reiinakano/scikit-plot)|reiinakano|1.7k|An intuitive library to add plotting functionality to scikit-learn objects.
+[**CNN-Visualizer**](https://github.com/poloclub/cnn-explainer)|poloclub|1.7k|Learning convolutional neural networks with interactive visualization. https://poloclub.github.io/cnn-explainer/
  
 
 
