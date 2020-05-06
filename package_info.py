@@ -55,7 +55,11 @@ class GithubPackage(Package):
 
 	@property
 	def description(self):
-		return self.page.find(attrs={'itemprop': 'about'}).text.strip().capitalize()
+		des = self.page.find(attrs={'itemprop': 'about'})
+		if des is None:
+			return ''
+		else:
+			return des.text.strip().capitalize()
 
 	@property
 	def star_count(self):
