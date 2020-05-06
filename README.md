@@ -136,6 +136,7 @@ name|owner|stars|description
 [**Graph neural network implementation by Microsoft**](https://github.com/microsoft/tf-gnn-samples)|microsoft|161|Tensorflow implementations of graph neural networks
 [**Awesome tensorflow**](https://github.com/jtoy/awesome-tensorflow)|jtoy|15.3k|Tensorflow - a curated list of dedicated resources http://tensorflow.org
 [**NLP progress**](https://github.com/sebastianruder/NLP-progress)|sebastianruder|13k|Repository to track the progress in natural language processing (nlp), including the datasets and the current state-of-the-art for the most common nlp tasks.
+[**《神经网络与深度学习》- 邱锡鹏**](https://github.com/nndl/nndl.github.io)|nndl|12k|《神经网络与深度学习》 邱锡鹏著 neural network and deep learning
 [**anomaly detection**](https://github.com/yzhao062/anomaly-detection-resources)|yzhao062|1.9k|Anomaly detection related books, papers, videos, and toolboxes
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|1.9k|Natural language processing best practices & examples
  
