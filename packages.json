@@ -204,6 +204,11 @@
     {
       "name": "annoy",
       "url": "https://github.com/spotify/annoy"
+    },
+
+    {
+      "name": "ALAE",
+      "url": "https://github.com/podgorskiy/ALAE"
     }
     
   ],

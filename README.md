@@ -13,8 +13,8 @@ name|owner|stars|description
 [**mmdetection**](https://github.com/open-mmlab/mmdetection)|open-mmlab|7.4k|Open mmlab detection toolbox and benchmark
 [**pattern**](https://github.com/clips/pattern)|clips|7.2k|Web mining module for python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 [**boruta**](https://github.com/scikit-learn-contrib/boruta_py)|scikit-learn-contrib|615|Python implementations of the boruta all-relevant feature selection method.
-[**annoy**](https://github.com/spotify/annoy)|spotify|6.7k|Approximate nearest neighbors in c++/python optimized for memory usage and loading/saving to disk
 [**VowpalWabbit**](https://github.com/VowpalWabbit/vowpal_wabbit)|VowpalWabbit|6.7k|Vowpal wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+[**annoy**](https://github.com/spotify/annoy)|spotify|6.7k|Approximate nearest neighbors in c++/python optimized for memory usage and loading/saving to disk
 [**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**tpot**](https://github.com/EpistasisLab/tpot)|EpistasisLab|6.5k|A python automated machine learning tool that optimizes machine learning pipelines using genetic programming.
 [**mlens**](https://github.com/flennerhag/mlens)|flennerhag|553|Ml-ensemble – high performance ensemble learning
@@ -25,18 +25,19 @@ name|owner|stars|description
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|4.1k|Automated machine learning with scikit-learn
 [**NGBoost**](https://github.com/stanfordmlgroup/ngboost.git)|stanfordmlgroup|335|Natural gradient boosting for probabilistic prediction
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.9k|Build graph nets in tensorflow
-[**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
+[**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**AnomalyDetection**](https://github.com/twitter/AnomalyDetection)|twitter|3.1k|Anomaly detection with r
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2.7k|😎 finding duplicate images made easy!
-[**imutils**](https://github.com/jrosebr1/imutils)|jrosebr1|2.6k|A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying matplotlib images easier with opencv and python.
 [**xlearn**](https://github.com/aksnzhy/xlearn)|aksnzhy|2.6k|High performance, easy-to-use, and scalable machine learning (ml) package, including linear model (lr), factorization machines (fm), and field-aware factorization machines (ffm) for python and cli interface.
+[**imutils**](https://github.com/jrosebr1/imutils)|jrosebr1|2.6k|A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying matplotlib images easier with opencv and python.
 [**jiagu**](https://github.com/ownthink/Jiagu)|ownthink|1k|Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 [**polylearn**](https://github.com/scikit-learn-contrib/polylearn)|scikit-learn-contrib|191|A library for factorization machines and polynomial networks for classification and regression in python.
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|17.8k|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
 [**dirty-cat**](https://github.com/dirty-cat/dirty_cat/)|dirty-cat|158|Encoding methods for dirty categorical variables
 [**minepy**](https://github.com/minepy/minepy)|minepy|114|Minepy - maximal information-based nonparametric exploration
+[**ALAE**](https://github.com/podgorskiy/ALAE)|podgorskiy|1.8k|[cvpr2020] adversarial latent autoencoders
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1.8k|On the variance of the adaptive learning rate and beyond
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1.6k|Sequential model-based optimization with a `scipy.optimize` interface
