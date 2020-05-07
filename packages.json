@@ -574,6 +574,11 @@
     {
       "name": "《神经网络与深度学习》- 邱锡鹏",
       "url": "https://github.com/nndl/nndl.github.io"
+    },
+
+    {
+      "name": "Pytorch Metric Learning",
+      "url": "https://github.com/KevinMusgrave/pytorch-metric-learning"
     }
     
 
