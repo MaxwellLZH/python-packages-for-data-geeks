@@ -56,6 +56,7 @@ name|owner|stars|description
 [**SHAP**](https://github.com/slundberg/shap)|slundberg|7.2k|A unified approach to explain the output of any machine learning model.
 [**LIME**](https://github.com/marcotcr/lime)|marcotcr|6.8k|Lime: explaining the predictions of any machine learning classifier
 [**PDPBox**](https://github.com/SauceCat/PDPbox)|SauceCat|382|Python partial dependence plot toolbox
+[**ppscore**](https://github.com/8080labs/ppscore.git)|8080labs|321|Predictive power score (pps) in python
 [**Tensorwatch**](https://github.com/microsoft/tensorwatch)|microsoft|2.5k|Debugging, monitoring and visualization for python machine learning and data science
 [**eli5**](https://github.com/TeamHG-Memex/eli5)|TeamHG-Memex|1.8k|A library for debugging/inspecting machine learning classifiers and explaining their predictions
  

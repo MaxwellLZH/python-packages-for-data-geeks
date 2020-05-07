@@ -238,6 +238,11 @@
     {
       "name": "eli5",
       "url": "https://github.com/TeamHG-Memex/eli5"
+    },
+
+    {
+      "name": "ppscore",
+      "url": "https://github.com/8080labs/ppscore.git"
     }
   ],
 
