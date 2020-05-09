@@ -584,6 +584,11 @@
     {
       "name": "Pytorch Metric Learning",
       "url": "https://github.com/KevinMusgrave/pytorch-metric-learning"
+    },
+
+    {
+      "name": "DeepCTR",
+      "url": "https://github.com/shenweichen/DeepCTR"
     }
     
 

@@ -129,6 +129,7 @@ name|owner|stars|description
 [**Learn Regex**](https://github.com/ziishaned/learn-regex)|ziishaned|31.9k|Learn regex the easy way
 [**Tensorflow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)|dragen1860|3.7k|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。
 [**Machine Learning Notes from Prof. Yida Xu**](https://github.com/roboticcam/machine-learning-notes)|roboticcam|3.5k|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1500+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
+[**DeepCTR**](https://github.com/shenweichen/DeepCTR)|shenweichen|3.3k|Easy-to-use,modular and extendible package of deep-learning based ctr models.
 [**openNRE**](https://github.com/thunlp/OpenNRE)|thunlp|2k|An open-source package for neural relation extraction (nre)
 [**Keras Text classification**](https://github.com/yongzhuo/Keras-TextClassification)|yongzhuo|277|中文长文本分类、短句子分类、多标签分类、两句子相似度（chinese text classification of keras nlp, multi-label classify, or sentence classify, long or short），字词句向量嵌入层（embeddings）和网络层（graph）构建基类，fasttext，textcnn，charcnn，textrnn, rcnn, dcnn, dpcnn, vdcnn, crnn, bert, xlnet, albert, attention, deepmoji, han, 胶囊网络-capsulenet, transformer-encode, seq2seq, ent, dmn,
 [**500 lines or less**](https://github.com/aosabook/500lines)|aosabook|23.9k|500 lines or less
