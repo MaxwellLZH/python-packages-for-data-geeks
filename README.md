@@ -25,8 +25,8 @@ name|owner|stars|description
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|4.1k|Automated machine learning with scikit-learn
 [**NGBoost**](https://github.com/stanfordmlgroup/ngboost.git)|stanfordmlgroup|335|Natural gradient boosting for probabilistic prediction
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.9k|Build graph nets in tensorflow
-[**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
+[**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**AnomalyDetection**](https://github.com/twitter/AnomalyDetection)|twitter|3.1k|Anomaly detection with r
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
@@ -44,6 +44,7 @@ name|owner|stars|description
 [**skopt**](https://github.com/scikit-optimize/scikit-optimize)|scikit-optimize|1.6k|Sequential model-based optimization with a `scipy.optimize` interface
 [**optuna**](https://github.com/optuna/optuna)|optuna|1.5k|A hyperparameter optimization framework
 [**lightning**](https://github.com/scikit-learn-contrib/lightning)|scikit-learn-contrib|1.3k|Large-scale linear classification, regression and ranking in python
+[**stellargraph**](https://github.com/stellargraph/stellargraph)|stellargraph|1.2k|Stellargraph - machine learning on graphs
 [**Metrics**](https://github.com/benhamner/Metrics)|benhamner|1.2k|Machine learning evaluation metrics, implemented in python, r, haskell, and matlab / octave
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
 [**FATE**](https://github.com/WeBankFinTech/FATE)|FederatedAI|1.1k|An industrial level federated learning framework
@@ -111,8 +112,8 @@ name|owner|stars|description
 ---|---|---|---
 [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn)|leisurelicht|9.2k|Wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|70.8k|Python - 100天从新手到大师
-[**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7.8k|Minimal and clean examples of machine learning algorithms implementations
 [**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|7.8k|Machine learning, in numpy
+[**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7.8k|Minimal and clean examples of machine learning algorithms implementations
 [**Reinforcement-learning-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|ShangtongZhang|7.7k|Python implementation of reinforcement learning: an introduction
 [**deep learning drizzle**](https://github.com/kmario23/deep-learning-drizzle)|kmario23|7.1k|Drench yourself in deep learning, reinforcement learning, machine learning, computer vision, and nlp by learning from these exciting lectures!!
 [**Google Research**](https://github.com/google-research/google-research)|google-research|6k|Google ai research
@@ -144,6 +145,7 @@ name|owner|stars|description
 [**Microsoft NLP examples**](https://github.com/microsoft/nlp)|microsoft|1.9k|Natural language processing best practices & examples
 [**anomaly detection**](https://github.com/yzhao062/anomaly-detection-resources)|yzhao062|1.9k|Anomaly detection related books, papers, videos, and toolboxes
 [**Pytorch Metric Learning**](https://github.com/KevinMusgrave/pytorch-metric-learning)|KevinMusgrave|1.3k|The easiest way to use deep metric learning in your application. modular, flexible, and extensible. written in pytorch.
+[**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
  
 
 
