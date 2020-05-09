@@ -214,6 +214,11 @@
     {
       "name": "gensen",
       "url": "https://github.com/Maluuba/gensen"
+    },
+
+    {
+      "name": "stellargraph",
+      "url": "https://github.com/stellargraph/stellargraph"
     }
     
   ],
