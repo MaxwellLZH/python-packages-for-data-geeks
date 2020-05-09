@@ -594,6 +594,11 @@
     {
       "name": "DeepCTR",
       "url": "https://github.com/shenweichen/DeepCTR"
+    },
+
+    {
+      "name": "bertforkeras",
+      "url": "https://github.com/bojone/bert4keras"
     }
     
 
