@@ -1,54 +1,59 @@
 {
-  "To Build Models": [
-    {
-      "name": "categorical-encoders",
-      "url": "https://github.com/scikit-learn-contrib/categorical-encoding",
-      "comment": "Implements multiple algorithms for encoding categorical variables."
-    },
 
-    {
-      "name": "auto-scikitlearn",
-      "url": "https://github.com/automl/auto-sklearn"
-    },
+   "Time Series": [
 
-    {
-      "name": "pymc",
-      "url": "https://github.com/pymc-devs/pymc3"
-    },
+      {
+        "name": "RobustSTL",
+        "url": "https://github.com/LeeDoYup/RobustSTL"
+      },
 
-    {
-      "name": "VowpalWabbit",
-      "url": "https://github.com/VowpalWabbit/vowpal_wabbit"
-    },
-
-    {
-      "name": "Autograd",
-      "url": "https://github.com/HIPS/autograd"
-    },
-
-    {
-      "name": "pattern",
-      "url": "https://github.com/clips/pattern"
-    },
-
-    {
+      {
       "name": "stumpy",
       "url": "https://github.com/TDAmeritrade/stumpy"
-    },
+      },
+
+      {
+      "name": "gluon-ts",
+      "url": "https://github.com/awslabs/gluon-ts"
+      },
+
+      {
+      "name": "AnomalyDetection",
+      "url": "https://github.com/twitter/AnomalyDetection"
+      }
+
+   ],
+
+
+   "Feature Engineering": [
+      {
+        "name": "categorical-encoders",
+        "url": "https://github.com/scikit-learn-contrib/categorical-encoding"
+      },
+
+      {
+        "name": "fancy-impute",
+        "url": "https://github.com/iskandr/fancyimpute"
+      },
+
+      {
+        "name": "dirty-cat",
+        "url": "https://github.com/dirty-cat/dirty_cat/"
+      },
+
+      {
+        "name": "featuretools",
+        "url": "https://github.com/FeatureLabs/featuretools"
+      }
+
+   ],
+
+
+   "Feature Selection": [
 
     {
       "name": "stability-selection",
       "url": "https://github.com/scikit-learn-contrib/stability-selection"
-    },
-
-    {
-      "name": "fancy-impute",
-      "url": "https://github.com/iskandr/fancyimpute"
-    },
-
-    {
-      "name": "polylearn",
-      "url": "https://github.com/scikit-learn-contrib/polylearn"
     },
 
     {
@@ -62,28 +67,147 @@
     },
 
     {
-      "name": "lightning",
-      "url": "https://github.com/scikit-learn-contrib/lightning"
+      "name": "minepy",
+      "url": "https://github.com/minepy/minepy"
     },
 
     {
-      "name": "FATE",
-      "url": "https://github.com/WeBankFinTech/FATE"
+      "name": "ppscore",
+      "url": "https://github.com/8080labs/ppscore.git"
+    }
+
+
+   ],
+
+   "Model Tunning": [
+
+    {
+      "name": "skopt",
+      "url": "https://github.com/scikit-optimize/scikit-optimize"
     },
 
     {
-      "name": "pytorch-transformers",
-      "url": "https://github.com/huggingface/pytorch-transformers"
+      "name": "optuna",
+      "url": "https://github.com/optuna/optuna"
     }, 
 
+
     {
-      "name": "mmdetection",
-      "url": "https://github.com/open-mmlab/mmdetection"
+      "name": "nnl",
+      "url": "https://github.com/microsoft/nni"
     },
 
+    {
+      "name": "mlflow",
+      "url": "https://github.com/mlflow/mlflow"
+    },
+
+    {
+      "name": "metaflow",
+      "url": "https://github.com/Netflix/metaflow"
+    }
+
+   ],
+
+
+   "AutoML": [
+      {
+      "name": "auto-scikitlearn",
+      "url": "https://github.com/automl/auto-sklearn"
+      },
+
+      {   
+      "name": "tpot",
+      "url": "https://github.com/EpistasisLab/tpot"
+      },
+
+      {
+        "name": "autokeras",
+        "url": "https://github.com/keras-team/autokeras"
+      },
+
+      {
+        "name": "darts",
+        "url": "https://github.com/quark0/darts"
+      }
+
+
+   ],
+
+
+   "Dimension Reduction": [
     {
       "name": "umap",
       "url": "https://github.com/lmcinnes/umap"
+    }
+
+  ],
+
+   "Machine Learning": [
+      {
+      "name": "VowpalWabbit",
+      "url": "https://github.com/VowpalWabbit/vowpal_wabbit"
+      },
+
+      {
+      "name": "pattern",
+      "url": "https://github.com/clips/pattern"
+      },
+
+      {
+      "name": "polylearn",
+      "url": "https://github.com/scikit-learn-contrib/polylearn"
+      },
+
+      {
+      "name": "lightning",
+      "url": "https://github.com/scikit-learn-contrib/lightning"
+      },
+
+      {
+      "name": "xlearn",
+      "url": "https://github.com/aksnzhy/xlearn"
+      },
+
+      { 
+      "name": "mlens",
+      "url": "https://github.com/flennerhag/mlens"
+      },
+
+      {
+      "name": "NGBoost",
+      "url": "https://github.com/stanfordmlgroup/ngboost.git"
+      },
+
+      {
+      "name": "Metrics",
+      "url": "https://github.com/benhamner/Metrics"
+      }
+
+   ],
+
+
+   "Bayesian Statistics": [
+    
+      { 
+        "name": "pymc",
+        "url": "https://github.com/pymc-devs/pymc3"
+      },
+
+      {
+        "name": "pyro",
+        "url": "https://github.com/pyro-ppl/pyro"
+      }
+
+
+   ],
+
+
+
+   "Deep Learning": [
+    {
+      "name": "Autograd",
+      "url": "https://github.com/HIPS/autograd"
     },
 
     {
@@ -92,68 +216,37 @@
     },
 
     {
-      "name": "skopt",
-      "url": "https://github.com/scikit-optimize/scikit-optimize"
+      "name": "Pytorch Metric Learning",
+      "url": "https://github.com/KevinMusgrave/pytorch-metric-learning"
+    }
+
+   ],
+
+
+   "Federated Learning": [
+    {
+      "name": "FATE",
+      "url": "https://github.com/WeBankFinTech/FATE"
+    }
+
+   ],
+
+
+   "NLP Preprocessing": [
+
+    {
+      "name": "jieba",
+      "url": "https://github.com/fxsjy/jieba"
+    },
+
+    {
+      "name": "HanLP",
+      "url": "https://github.com/hankcs/HanLP"
     },
 
     {
       "name": "ckiptagger",
       "url": "https://github.com/ckiplab/ckiptagger"
-    },
-
-    {
-      "name": "xlearn",
-      "url": "https://github.com/aksnzhy/xlearn"
-    },
-
-    {
-      "name": "minepy",
-      "url": "https://github.com/minepy/minepy"
-    },
-
-    {
-      "name": "mlens",
-      "url": "https://github.com/flennerhag/mlens"
-    },
-
-    {
-      "name": "NGBoost",
-      "url": "https://github.com/stanfordmlgroup/ngboost.git"
-    },
-
-    {
-      "name": "streamlit",
-      "url": "https://github.com/streamlit/streamlit"
-    },
-
-    {
-      "name": "imagededupe",
-      "url": "https://github.com/idealo/imagededup"
-    },
-
-    {
-      "name": "dirty-cat",
-      "url": "https://github.com/dirty-cat/dirty_cat/"
-    },
-
-    {
-      "name": "ALBERT",
-      "url": "https://github.com/brightmart/albert_zh"
-    },
-
-    {
-      "name": "gluon-ts",
-      "url": "https://github.com/awslabs/gluon-ts"
-    },
-
-    {
-      "name": "dgl",
-      "url": "https://github.com/dmlc/dgl"
-    },
-
-    {
-      "name": "graph_nets",
-      "url": "https://github.com/deepmind/graph_nets"
     },
 
     {
@@ -167,48 +260,22 @@
     },
 
     {
-      "name": "Metrics",
-      "url": "https://github.com/benhamner/Metrics"
-    },
+      "name": "Chinese Word Embeddings",
+      "url": "https://github.com/Embedding/Chinese-Word-Vectors"
+    }
 
-    {
-      "name": "tpot",
-      "url": "https://github.com/EpistasisLab/tpot"
-    },
+   ],
 
-    {
-      "name": "imutils",
-      "url": "https://github.com/jrosebr1/imutils"
-    },
 
+   "NLP Models": [
     {
-      "name": "optuna",
-      "url": "https://github.com/optuna/optuna"
+      "name": "pytorch-transformers",
+      "url": "https://github.com/huggingface/pytorch-transformers"
     }, 
 
     {
-      "name": "nnl",
-      "url": "https://github.com/microsoft/nni"
-    },
-
-    {
-      "name": "AnomalyDetection",
-      "url": "https://github.com/twitter/AnomalyDetection"
-    },
-
-    {
-      "name": "Chinese Word Embeddings",
-      "url": "https://github.com/Embedding/Chinese-Word-Vectors"
-    },
-
-    {
-      "name": "annoy",
-      "url": "https://github.com/spotify/annoy"
-    },
-
-    {
-      "name": "ALAE",
-      "url": "https://github.com/podgorskiy/ALAE"
+      "name": "ALBERT",
+      "url": "https://github.com/brightmart/albert_zh"
     },
 
     {
@@ -217,11 +284,177 @@
     },
 
     {
+      "name": "bertforkeras",
+      "url": "https://github.com/bojone/bert4keras"
+    },
+
+    {
+      "name": "xlnet",
+      "url": "https://github.com/zihangdai/xlnet"
+    },
+
+    {
+      "name": "GPT2-Chinese",
+      "url": "https://github.com/Morizeyao/GPT2-Chinese"
+    }
+
+   ],
+
+
+   "Image Processing": [
+    {
+      "name": "imutils",
+      "url": "https://github.com/jrosebr1/imutils"
+    },
+
+    {
+      "name": "imgaug",
+      "url": "https://github.com/aleju/imgaug"
+    },
+
+    {
+      "name": "imagededupe",
+      "url": "https://github.com/idealo/imagededup"
+    }
+
+    ],
+
+   
+   "Object Detection": [
+
+    {
+      "name": "mmdetection",
+      "url": "https://github.com/open-mmlab/mmdetection"
+    },
+
+
+    {
+      "name": "Light Facial Detection",
+      "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB"
+    },
+
+    {
+      "name": "FastMaskRCNN",
+      "url": "https://github.com/CharlesShang/FastMaskRCNN"
+    },
+
+    {
+      "name": "keras-YOLO3",
+      "url": "https://github.com/qqwweee/keras-yolo3"
+    },
+
+    {
+      "name": "SSD-Tensorflow",
+      "url": "https://github.com/balancap/SSD-Tensorflow"
+    }
+
+
+   ],
+
+
+
+   "Recommendation": [
+    {
+      "name": "DeepCTR",
+      "url": "https://github.com/shenweichen/DeepCTR"
+    },
+
+    {
+      "name": "neural-collaborative-filtering",
+      "url": "https://github.com/hexiangnan/neural_collaborative_filtering"
+    },
+
+    {
+      "name": "DeepFM",
+      "url": "https://github.com/ChenglongChen/tensorflow-DeepFM"
+    },
+
+    {
+      "name": "xDeepFM",
+      "url": "https://github.com/Leavingseason/xDeepFM"
+    },
+
+    {
+    "name": "recommenders",
+    "url": "https://github.com/microsoft/recommenders"
+    }
+
+  ],
+
+
+   "Graph": [
+    {
+      "name": "dgl",
+      "url": "https://github.com/dmlc/dgl"
+    },
+
+    {
+      "name": "graph_nets",
+      "url": "https://github.com/deepmind/graph_nets"
+    },
+
+    {
       "name": "stellargraph",
       "url": "https://github.com/stellargraph/stellargraph"
+    },
+
+    {
+      "name": "plato",
+      "url": "https://github.com/Tencent/plato"
+    },
+
+    {
+      "name": "SNAP",
+      "url": "https://github.com/snap-stanford/snap"
     }
-    
+
   ],
+
+
+   "Searching": [
+    {
+      "name": "annoy",
+      "url": "https://github.com/spotify/annoy"
+    },
+
+    {
+      "name": "faiss",
+      "url": "https://github.com/facebookresearch/faiss"
+    }
+
+   ],
+
+
+   "Adversarial Learning": [
+
+    {
+      "name": "ALAE",
+      "url": "https://github.com/podgorskiy/ALAE"
+    },
+
+    {
+      "name": "CycleGAN",
+      "url": "https://github.com/junyanz/CycleGAN"
+    },
+
+    {
+      "name": "GANHacks",
+      "url": "https://github.com/soumith/ganhacks"
+    },
+
+    {
+      "name": "pix2pix",
+      "url": "https://github.com/phillipi/pix2pix"
+    },
+
+    {
+      "name": "DCGAN",
+      "url": "https://github.com/carpedm20/DCGAN-tensorflow"
+    }
+
+    ],
+
+
 
   "Model Interpretation": [
     {
@@ -248,13 +481,10 @@
     {
       "name": "eli5",
       "url": "https://github.com/TeamHG-Memex/eli5"
-    },
-
-    {
-      "name": "ppscore",
-      "url": "https://github.com/8080labs/ppscore.git"
     }
   ],
+
+
 
   "Visualization": [
     {
@@ -291,11 +521,16 @@
     {
       "name": "CNN-Visualizer",
       "url": "https://github.com/poloclub/cnn-explainer"
+    },
+
+    {
+      "name": "streamlit",
+      "url": "https://github.com/streamlit/streamlit"
     }
   ],
 
 
-  "Development": [
+  "Development Toolkit": [
     {
       "name": "PySnooper",
       "url": "https://github.com/cool-RR/PySnooper"
@@ -357,23 +592,8 @@
     },
 
     {
-      "name": "break-capcha",
-      "url": "https://github.com/zhaipro/easy12306"
-    },
-
-    {
-      "name": "GNE",
-      "url": "https://github.com/kingname/GeneralNewsExtractor"
-    },
-
-    {
       "name": "poetry",
       "url": "https://github.com/sdispater/poetry"
-    },
-
-    {
-      "name": "mlflow",
-      "url": "https://github.com/mlflow/mlflow"
     },
 
     {
@@ -384,11 +604,6 @@
     {
       "name": "modin",
       "url": "https://github.com/modin-project/modin"
-    },
-
-    {
-      "name": "plato",
-      "url": "https://github.com/Tencent/plato"
     },
 
     {
@@ -407,13 +622,8 @@
     },
 
     {
-      "name": "metaflow",
-      "url": "https://github.com/Netflix/metaflow"
-    },
-
-    {
       "name": "lark",
-      "url": "https://github.com/lark-parser/lark/tree/master/examples"
+      "url": "https://github.com/lark-parser/lark"
     }
 
 
@@ -487,11 +697,6 @@
     },
 
     {
-	  "name": "recommenders",
-	  "url": "https://github.com/microsoft/recommenders"
-    },
-
-    {
       "name": "reinforcement learning",
       "url": "https://github.com/dalmia/David-Silver-Reinforcement-learning"
     },
@@ -529,6 +734,11 @@
     {
       "name": "Google Research",
       "url": "https://github.com/google-research/google-research"
+    },
+
+    {
+      "name": "object-detection-papers",
+      "url": "https://github.com/hoya012/deep_learning_object_detection"
     },
 
     {
@@ -577,29 +787,10 @@
     },
 
     {
-      "name": "scikit-opt",
-      "url": "https://github.com/guofei9987/scikit-opt"
-    },
-
-    {
       "name": "《神经网络与深度学习》- 邱锡鹏",
       "url": "https://github.com/nndl/nndl.github.io"
-    },
-
-    {
-      "name": "Pytorch Metric Learning",
-      "url": "https://github.com/KevinMusgrave/pytorch-metric-learning"
-    },
-
-    {
-      "name": "DeepCTR",
-      "url": "https://github.com/shenweichen/DeepCTR"
-    },
-
-    {
-      "name": "bertforkeras",
-      "url": "https://github.com/bojone/bert4keras"
     }
+
     
 
   ],
@@ -607,18 +798,8 @@
   "Fun Stuff": [
 
     {
-      "name": "tf-quant",
-      "url" : "https://github.com/google/tf-quant-finance"
-    },
-
-    {
       "name": "tiler",
       "url": "https://github.com/nuno-faria/tiler"
-    },
-
-    {
-      "name": "Light Facial Detection",
-      "url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB"
     },
 
     {
@@ -634,6 +815,30 @@
     {
       "name": "pyforest",
       "url": "https://github.com/8080labs/pyforest"
+    },
+
+    {
+      "name": "break-capcha",
+      "url": "https://github.com/zhaipro/easy12306"
+    },
+
+    {
+      "name": "GNE",
+      "url": "https://github.com/kingname/GeneralNewsExtractor"
+    }
+
+  ],
+
+  "Trading": [
+
+    {
+      "name": "tf-quant",
+      "url" : "https://github.com/google/tf-quant-finance"
+    },
+
+    {
+      "name": "zipline",
+      "url": "https://github.com/quantopian/zipline"
     }
 
   ]
