@@ -139,6 +139,11 @@
     {
       "name": "umap",
       "url": "https://github.com/lmcinnes/umap"
+    },
+
+    {
+      "name": "star-clustering",
+      "url": "https://github.com/josephius/star-clustering"
     }
 
   ],
@@ -839,6 +844,11 @@
     {
       "name": "zipline",
       "url": "https://github.com/quantopian/zipline"
+    },
+
+    {
+      "name": "mlfinlab",
+      "url": "https://github.com/hudson-and-thames/mlfinlab"
     }
 
   ]

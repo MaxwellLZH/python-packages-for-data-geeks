@@ -57,6 +57,7 @@ name|owner|stars|description
 ## Dimension Reduction  
 name|owner|stars|description
 ---|---|---|---
+[**star-clustering**](https://github.com/josephius/star-clustering)|josephius|83|A clustering algorithm that automatically determines the number of clusters and works without hyperparameter fine-tuning.
 [**umap**](https://github.com/lmcinnes/umap)|lmcinnes|3.4k|Uniform manifold approximation and projection
  
 
@@ -289,6 +290,7 @@ name|owner|stars|description
 ---|---|---|---
 [**tf-quant**](https://github.com/google/tf-quant-finance)|google|773|High-performance tensorflow library for quantitative finance.
 [**zipline**](https://github.com/quantopian/zipline)|quantopian|11.2k|Zipline, a pythonic algorithmic trading library
+[**mlfinlab**](https://github.com/hudson-and-thames/mlfinlab)|hudson-and-thames|1.3k|Mlfinlab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
  
 
 
