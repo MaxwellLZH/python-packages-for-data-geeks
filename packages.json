@@ -356,6 +356,11 @@
     {
       "name": "detr",
       "url": "https://github.com/facebookresearch/detr"
+    },
+
+    {
+      "name": "u2net",
+      "url": "https://github.com/NathanUA/U-2-Net"
     }
 
    ],
