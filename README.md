@@ -141,6 +141,7 @@ name|owner|stars|description
 [**FastMaskRCNN**](https://github.com/CharlesShang/FastMaskRCNN)|CharlesShang|3k|Mask rcnn in tensorflow
 [**Light Facial Detection**](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)|Linzaer|3.9k|💎1mb lightweight face detection model (1mb轻量级人脸检测模型)
 [**SSD-Tensorflow**](https://github.com/balancap/SSD-Tensorflow)|balancap|3.8k|Single shot multibox detector in tensorflow
+[**detr**](https://github.com/facebookresearch/detr)|facebookresearch|3.4k|End-to-end object detection with transformers
  
 
 

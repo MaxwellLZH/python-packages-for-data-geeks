@@ -351,8 +351,12 @@
     {
       "name": "SSD-Tensorflow",
       "url": "https://github.com/balancap/SSD-Tensorflow"
-    }
+    },
 
+    {
+      "name": "detr",
+      "url": "https://github.com/facebookresearch/detr"
+    }
 
    ],
 
