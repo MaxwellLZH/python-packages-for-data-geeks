@@ -267,6 +267,11 @@
     {
       "name": "Chinese Word Embeddings",
       "url": "https://github.com/Embedding/Chinese-Word-Vectors"
+    },
+
+    {
+      "name": "fastHan",
+      "url": "https://github.com/fastnlp/fastHan"
     }
 
    ],
