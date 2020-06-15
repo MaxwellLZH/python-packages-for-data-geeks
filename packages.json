@@ -306,6 +306,11 @@
     {
       "name": "GPT2-Chinese",
       "url": "https://github.com/Morizeyao/GPT2-Chinese"
+    },
+
+    {
+      "name": "glyce embedding",
+      "url": "https://github.com/ShannonAI/glyce"
     }
 
    ],

@@ -118,6 +118,7 @@ name|owner|stars|description
 ---|---|---|---
 [**xlnet**](https://github.com/zihangdai/xlnet)|zihangdai|5.3k|Xlnet: generalized autoregressive pretraining for language understanding
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
+[**glyce embedding**](https://github.com/ShannonAI/glyce)|ShannonAI|238|Code for neurips 2019 - glyce: glyph-vectors for chinese character representations
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|17.8k|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
