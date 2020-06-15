@@ -136,6 +136,7 @@ name|owner|stars|description
 ## Object Detection  
 name|owner|stars|description
 ---|---|---|---
+[**u2net**](https://github.com/NathanUA/U-2-Net)|NathanUA|873|"The code for our newly accepted paper in pattern recognition 2020: ""u^2-net: going deeper with nested u-structure for salient object detection."""
 [**mmdetection**](https://github.com/open-mmlab/mmdetection)|open-mmlab|7.4k|Open mmlab detection toolbox and benchmark
 [**keras-YOLO3**](https://github.com/qqwweee/keras-yolo3)|qqwweee|5.8k|A keras implementation of yolov3 (tensorflow backend)
 [**FastMaskRCNN**](https://github.com/CharlesShang/FastMaskRCNN)|CharlesShang|3k|Mask rcnn in tensorflow
@@ -241,6 +242,7 @@ name|owner|stars|description
 ---|---|---|---
 [**wtfpython-cn**](https://github.com/leisurelicht/wtfpython-cn)|leisurelicht|9.2k|Wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 [**object-detection-papers**](https://github.com/hoya012/deep_learning_object_detection)|hoya012|8.1k|A paper list of object detection using deep learning.
+[**Stanford Natural Language Understanding Course**](https://github.com/cgpotts/cs224u)|cgpotts|727|Code for stanford cs224u
 [**Python 100 days**](https://github.com/jackfrued/Python-100-Days)|jackfrued|70.8k|Python - 100天从新手到大师
 [**MLAlgorithms**](https://github.com/rushter/MLAlgorithms)|rushter|7.8k|Minimal and clean examples of machine learning algorithms implementations
 [**numpy-ml**](https://github.com/ddbourgin/numpy-ml)|ddbourgin|7.8k|Machine learning, in numpy
