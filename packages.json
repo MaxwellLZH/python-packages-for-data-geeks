@@ -430,6 +430,11 @@
     {
       "name": "SNAP",
       "url": "https://github.com/snap-stanford/snap"
+    },
+
+    {
+      "name": "spektral",
+      "url": "https://github.com/danielegrattarola/spektral"
     }
 
   ],

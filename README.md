@@ -163,6 +163,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**plato**](https://github.com/Tencent/plato)|Tencent|874|腾讯高性能分布式图计算框架plato
+[**spektral**](https://github.com/danielegrattarola/spektral)|danielegrattarola|810|Graph neural networks with keras and tensorflow 2.
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.9k|Build graph nets in tensorflow
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
 [**SNAP**](https://github.com/snap-stanford/snap)|snap-stanford|1.5k|Stanford network analysis platform (snap) is a general purpose network analysis and graph mining library.
