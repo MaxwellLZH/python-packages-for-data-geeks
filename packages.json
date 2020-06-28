@@ -435,6 +435,11 @@
     {
       "name": "spektral",
       "url": "https://github.com/danielegrattarola/spektral"
+    },
+
+    {
+      "name": "graphSAGE",
+      "url": "https://github.com/williamleif/GraphSAGE"
     }
 
   ],
