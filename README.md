@@ -187,6 +187,7 @@ name|owner|stars|description
 [**GANHacks**](https://github.com/soumith/ganhacks)|soumith|8.4k|"Starter from ""how to train a gan?"" at nips2016"
 [**pix2pix**](https://github.com/phillipi/pix2pix)|phillipi|7.7k|Image-to-image translation with conditional adversarial nets
 [**DCGAN**](https://github.com/carpedm20/DCGAN-tensorflow)|carpedm20|6.5k|"A tensorflow implementation of ""deep convolutional generative adversarial networks"""
+[**pytorch-CycleGAN-and-pix2pix**](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|junyanz|12.3k|
 [**ALAE**](https://github.com/podgorskiy/ALAE)|podgorskiy|1.8k|[cvpr2020] adversarial latent autoencoders
  
 

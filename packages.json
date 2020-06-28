@@ -484,6 +484,11 @@
     {
       "name": "DCGAN",
       "url": "https://github.com/carpedm20/DCGAN-tensorflow"
+    },
+
+    {
+      "name": "pytorch-CycleGAN-and-pix2pix",
+      "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"
     }
 
     ],
