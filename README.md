@@ -100,6 +100,13 @@ name|owner|stars|description
  
 
 
+## Confident Learning  
+name|owner|stars|description
+---|---|---|---
+[**cleanlab**](https://github.com/cgnorthcutt/cleanlab)|cgnorthcutt|993|
+ 
+
+
 ## NLP Preprocessing  
 name|owner|stars|description
 ---|---|---|---

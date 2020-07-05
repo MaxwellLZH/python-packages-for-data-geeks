@@ -236,6 +236,14 @@
 
    ],
 
+   "Confident Learning": [
+    { 
+      "name": "cleanlab",
+      "url": "https://github.com/cgnorthcutt/cleanlab"
+    }
+
+   ],
+
 
    "NLP Preprocessing": [
 
