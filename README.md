@@ -229,6 +229,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
+[**pygooglenews**](https://github.com/kotartemiy/pygooglenews)|kotartemiy|653|
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|65.9k|A collective list of free apis for use in software and web development.
 [**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工

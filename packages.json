@@ -682,6 +682,11 @@
     {
       "name": "bottleneck",
       "url": "https://github.com/pydata/bottleneck"
+    },
+
+    {
+      "name": "pygooglenews",
+      "url": "https://github.com/kotartemiy/pygooglenews"
     }
 
 
