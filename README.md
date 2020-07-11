@@ -166,6 +166,13 @@ name|owner|stars|description
  
 
 
+## Outlier Detection  
+name|owner|stars|description
+---|---|---|---
+[**alibi-detect**](https://github.com/SeldonIO/alibi-detect)|SeldonIO|149|
+ 
+
+
 ## Graph  
 name|owner|stars|description
 ---|---|---|---

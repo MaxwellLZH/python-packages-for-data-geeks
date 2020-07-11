@@ -413,6 +413,14 @@
 
   ],
 
+   "Outlier Detection": [
+    {
+      "name": "alibi-detect",
+      "url": "https://github.com/SeldonIO/alibi-detect"
+    }
+
+   ],
+
 
    "Graph": [
     {
