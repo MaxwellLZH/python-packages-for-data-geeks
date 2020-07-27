@@ -110,6 +110,7 @@ name|owner|stars|description
 ## NLP Preprocessing  
 name|owner|stars|description
 ---|---|---|---
+[**TextAttack**](https://github.com/QData/TextAttack)|QData|709|
 [**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**jieba**](https://github.com/fxsjy/jieba)|fxsjy|23k|结巴中文分词
@@ -159,6 +160,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
+[**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|673|
 [**recommenders**](https://github.com/microsoft/recommenders)|microsoft|6.6k|Best practices on recommendation systems
 [**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|514|
 [**DeepCTR**](https://github.com/shenweichen/DeepCTR)|shenweichen|3.3k|Easy-to-use,modular and extendible package of deep-learning based ctr models.

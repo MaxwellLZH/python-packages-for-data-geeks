@@ -280,6 +280,11 @@
     {
       "name": "fastHan",
       "url": "https://github.com/fastnlp/fastHan"
+    },
+
+    {
+      "name": "TextAttack",
+      "url": "https://github.com/QData/TextAttack"
     }
 
    ],
@@ -409,6 +414,11 @@
     {
     "name": "recommenders",
     "url": "https://github.com/microsoft/recommenders"
+    },
+
+    {
+      "name": "deepmatch",
+      "url": "https://github.com/shenweichen/DeepMatch"
     }
 
   ],
