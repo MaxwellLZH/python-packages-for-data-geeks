@@ -244,6 +244,20 @@
 
    ],
 
+   "Causal Inference": [
+    {
+      "name": "EconML",
+      "url": "https://github.com/microsoft/EconML"
+    },
+
+    {
+      "name": "dowhy",
+      "url": "https://github.com/microsoft/dowhy"
+    }
+
+
+   ],
+
 
    "NLP Preprocessing": [
 

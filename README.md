@@ -107,6 +107,14 @@ name|owner|stars|description
  
 
 
+## Causal Inference  
+name|owner|stars|description
+---|---|---|---
+[**EconML**](https://github.com/microsoft/EconML)|microsoft|871|
+[**dowhy**](https://github.com/microsoft/dowhy)|microsoft|2.1k|
+ 
+
+
 ## NLP Preprocessing  
 name|owner|stars|description
 ---|---|---|---
