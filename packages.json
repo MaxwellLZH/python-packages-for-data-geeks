@@ -202,6 +202,11 @@
       {
         "name": "pyro",
         "url": "https://github.com/pyro-ppl/pyro"
+      },
+
+      {
+        "name": "Edward",
+        "url": "https://github.com/blei-lab/edward"
       }
 
 
@@ -253,7 +258,12 @@
     {
       "name": "dowhy",
       "url": "https://github.com/microsoft/dowhy"
-    }
+    },
+
+    {
+      "name": "Edward",
+      "url": "https://github.com/blei-lab/edward"
+  }
 
 
    ],

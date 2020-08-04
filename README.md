@@ -81,6 +81,7 @@ name|owner|stars|description
 ---|---|---|---
 [**pyro**](https://github.com/pyro-ppl/pyro)|pyro-ppl|6.2k|Deep universal probabilistic programming with python and pytorch
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4.6k|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
+[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.5k|
  
 
 
@@ -111,6 +112,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**EconML**](https://github.com/microsoft/EconML)|microsoft|871|
+[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.5k|
 [**dowhy**](https://github.com/microsoft/dowhy)|microsoft|2.1k|
  
 
