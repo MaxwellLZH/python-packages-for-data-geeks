@@ -348,6 +348,11 @@
     {
       "name": "glyce embedding",
       "url": "https://github.com/ShannonAI/glyce"
+    },
+
+    {
+      "name": "sentence-transformers",
+      "url": "https://github.com/UKPLab/sentence-transformers"
     }
 
    ],
@@ -412,6 +417,19 @@
 
    ],
 
+
+   "OCR": [
+    {
+      "name": "InvoiceNet",
+      "url": "https://github.com/naiveHobo/InvoiceNet"
+    },
+
+    {
+      "name": "chineseocr-lite",
+      "url": "https://github.com/ouyanghuiyu/chineseocr_lite"
+    }
+
+   ],
 
 
    "Recommendation": [
@@ -899,9 +917,12 @@
     {
       "name": "Stanford Natural Language Understanding Course",
       "url": "https://github.com/cgpotts/cs224u"
-    }
+    },
 
-    
+    {
+      "name": "minGPT",
+      "url": "https://github.com/karpathy/minGPT"
+    }
 
   ],
 
