@@ -94,6 +94,13 @@ name|owner|stars|description
  
 
 
+## Distributed Training  
+name|owner|stars|description
+---|---|---|---
+[**horovod**](https://github.com/horovod/horovod)|horovod|9.8k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+ 
+
+
 ## Federated Learning  
 name|owner|stars|description
 ---|---|---|---

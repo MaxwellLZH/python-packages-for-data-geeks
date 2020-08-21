@@ -55,7 +55,8 @@ class GithubPackage(Package):
 
 	@property
 	def description(self):
-		des = self.page.find(attrs={'itemprop': 'about'})
+		des = self.page.find(class_='BorderGrid-cell').find(class_="f4 mt-3")
+		# des = self.page.find(attrs={'itemprop': 'about'})
 		if des is None:
 			return ''
 		else:
@@ -140,7 +141,7 @@ if __name__ == '__main__':
 	info = get_existing_info()
 
 	for name, url in pkgs:
-		if name not in info:
+		if (name == 'horovod') or (name not in info):
 			pkg = make_package(name, url)
 			info[pkg.name] = pkg.to_dict()
 
