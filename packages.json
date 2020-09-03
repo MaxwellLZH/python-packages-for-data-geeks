@@ -755,6 +755,11 @@
     {
       "name": "pygooglenews",
       "url": "https://github.com/kotartemiy/pygooglenews"
+    },
+
+    {
+      "name": "handclacs",
+      "url": "https://github.com/connorferster/handcalcs"
     }
 
 
