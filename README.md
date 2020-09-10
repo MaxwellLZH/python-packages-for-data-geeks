@@ -97,7 +97,7 @@ name|owner|stars|description
 ## Distributed Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|9.8k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|9.9k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
  
 
 
@@ -143,12 +143,19 @@ name|owner|stars|description
 ---|---|---|---
 [**xlnet**](https://github.com/zihangdai/xlnet)|zihangdai|5.3k|Xlnet: generalized autoregressive pretraining for language understanding
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
-[**glyce embedding**](https://github.com/ShannonAI/glyce)|ShannonAI|238|Code for neurips 2019 - glyce: glyph-vectors for chinese character representations
-[**sentence-transformers**](https://github.com/UKPLab/sentence-transformers)|UKPLab|2.6k|
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|17.8k|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
+ 
+
+
+## Representation Learning  
+name|owner|stars|description
+---|---|---|---
+[**top2vec**](https://github.com/ddangelov/Top2Vec)|ddangelov|489|Top2vec learns jointly embedded topic, document and word vectors.
+[**glyce embedding**](https://github.com/ShannonAI/glyce)|ShannonAI|238|Code for neurips 2019 - glyce: glyph-vectors for chinese character representations
+[**sentence-transformers**](https://github.com/UKPLab/sentence-transformers)|UKPLab|2.6k|
  
 
 
@@ -276,6 +283,7 @@ name|owner|stars|description
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3.2k|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|23.3k|📖 a collection of pure bash alternatives to external processes.
 [**papermill**](https://github.com/nteract/papermill/)|nteract|2.7k|📚 parameterize, execute, and analyze notebooks
+[**handclacs**](https://github.com/connorferster/handcalcs)|connorferster|2.3k|Python library for converting python calculations into rendered latex.
 [**python-fire**](https://github.com/google/python-fire)|google|15.8k|Python fire is a library for automatically generating command line interfaces (clis) from absolutely any python object.
 [**black**](https://github.com/psf/black)|psf|13.7k|The uncompromising python code formatter
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|12.9k|Never use print for debugging again

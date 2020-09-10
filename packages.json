@@ -351,8 +351,11 @@
     {
       "name": "GPT2-Chinese",
       "url": "https://github.com/Morizeyao/GPT2-Chinese"
-    },
+    }
 
+   ],
+
+   "Representation Learning": [
     {
       "name": "glyce embedding",
       "url": "https://github.com/ShannonAI/glyce"
@@ -361,10 +364,15 @@
     {
       "name": "sentence-transformers",
       "url": "https://github.com/UKPLab/sentence-transformers"
+    },
+
+    {
+      "name": "top2vec",
+      "url": "https://github.com/ddangelov/Top2Vec"
     }
 
-   ],
 
+   ],
 
    "Image Processing": [
     {
