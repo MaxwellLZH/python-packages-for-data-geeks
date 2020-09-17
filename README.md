@@ -97,7 +97,7 @@ name|owner|stars|description
 ## Distributed Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|9.9k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|10k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
  
 
 
@@ -142,6 +142,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**xlnet**](https://github.com/zihangdai/xlnet)|zihangdai|5.3k|Xlnet: generalized autoregressive pretraining for language understanding
+[**MatchZoo**](https://github.com/NTMC-Community/MatchZoo)|NTMC-Community|3.2k|Facilitating the design, comparison and sharing of deep text matching models.
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**pytorch-transformers**](https://github.com/huggingface/pytorch-transformers)|huggingface|17.8k|🤗 transformers: state-of-the-art natural language processing for tensorflow 2.0 and pytorch.
