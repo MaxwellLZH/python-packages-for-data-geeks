@@ -44,6 +44,39 @@
       {
         "name": "featuretools",
         "url": "https://github.com/FeatureLabs/featuretools"
+      },
+
+      {
+        "name": "great_expectations",
+        "url": "https://github.com/great-expectations/great_expectations"
+      }
+
+   ],
+
+   "Pandas Extensions": [
+      {
+        "name": "pdpipe",
+        "url": "https://github.com/pdpipe/pdpipe"
+      },
+
+      {
+        "name": "pandas-log",
+        "url": "https://github.com/eyaltrabelsi/pandas-log"
+      },
+
+      {
+        "name": "pandas_flavor",
+        "url": "https://github.com/Zsailer/pandas_flavor"
+      },
+
+      {
+        "name": "pandas-profiliing",
+        "url": "https://github.com/pandas-profiling/pandas-profiling"
+      },
+
+      {
+        "name": "pydqc",
+        "url": "https://github.com/SauceCat/pydqc"
       }
 
    ],
@@ -773,6 +806,11 @@
     {
       "name": "handclacs",
       "url": "https://github.com/connorferster/handcalcs"
+    },
+
+    {
+      "name": "more-itertools",
+      "url": "https://github.com/more-itertools/more-itertools"
     }
 
 
@@ -982,6 +1020,11 @@
     {
       "name": "GNE",
       "url": "https://github.com/kingname/GeneralNewsExtractor"
+    },
+
+    {
+      "name": "KnockKnock",
+      "url": "https://github.com/huggingface/knockknock"
     }
 
   ],

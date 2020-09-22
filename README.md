@@ -17,8 +17,20 @@ name|owner|stars|description
 ---|---|---|---
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|735|Multivariate imputation and matrix completion algorithms implemented in python
 [**featuretools**](https://github.com/FeatureLabs/featuretools)|FeatureLabs|4.8k|An open source python library for automated feature engineering
+[**great_expectations**](https://github.com/great-expectations/great_expectations)|great-expectations|2.7k|Always know what to expect from your data.
 [**dirty-cat**](https://github.com/dirty-cat/dirty_cat/)|dirty-cat|158|Encoding methods for dirty categorical variables
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1.1k|A library of sklearn compatible categorical variable encoders
+ 
+
+
+## Pandas Extensions  
+name|owner|stars|description
+---|---|---|---
+[**pdpipe**](https://github.com/pdpipe/pdpipe)|pdpipe|557|Easy pipelines for pandas dataframes.
+[**pandas-profiliing**](https://github.com/pandas-profiling/pandas-profiling)|pandas-profiling|5.9k|Create html profiling reports from pandas dataframe objects
+[**pydqc**](https://github.com/SauceCat/pydqc)|SauceCat|211|Python automatic data quality check toolkit
+[**pandas_flavor**](https://github.com/Zsailer/pandas_flavor)|Zsailer|186|The easy way to write your own flavor of pandas
+[**pandas-log**](https://github.com/eyaltrabelsi/pandas-log)|eyaltrabelsi|154|The goal of pandas-log is to provide feedback about basic pandas operations. it provides simple wrapper functions for the most common functions that add additional logs
  
 
 
@@ -274,8 +286,8 @@ name|owner|stars|description
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
 [**pygooglenews**](https://github.com/kotartemiy/pygooglenews)|kotartemiy|653|
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|65.9k|A collective list of free apis for use in software and web development.
-[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工
+[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**bottleneck**](https://github.com/pydata/bottleneck)|pydata|521|
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|4k|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|445|A python application for tracking, reporting on timing and complexity in python code
@@ -292,6 +304,7 @@ name|owner|stars|description
 [**urwind**](https://github.com/urwid/urwid)|urwid|1.7k|Console user interface library for python (official repo)
 [**lark**](https://github.com/lark-parser/lark/tree/master/examples)|lark-parser|1.7k|
 [**xarray**](https://github.com/pydata/xarray)|pydata|1.5k|N-d labeled arrays and datasets in python
+[**more-itertools**](https://github.com/more-itertools/more-itertools)|more-itertools|1.5k|More routines for operating on iterables, beyond itertools
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1.4k|🍦 sweet and creamy print debugging.
  
 
@@ -344,6 +357,7 @@ name|owner|stars|description
 [**tiler**](https://github.com/nuno-faria/tiler)|nuno-faria|3.8k|👷 build images with images
 [**funNLP**](https://github.com/fighting41love/funNLP)|fighting41love|14.9k|中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、it词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、coconlp信息抽取工具、国内电话号码正则匹配、清华大学xlore:中英文跨语言百科知识图谱、清华大学人工智能技术…
 [**Hacking neural nets**](https://github.com/Kayzaks/HackingNeuralNetworks)|Kayzaks|1.9k|A small course on exploiting and defending neural networks
+[**KnockKnock**](https://github.com/huggingface/knockknock)|huggingface|1.7k|🚪✊knock knock: get notified when your training ends with only two additional lines of code
 [**break-capcha**](https://github.com/zhaipro/easy12306)|zhaipro|1.4k|使用机器学习算法完成对12306验证码的自动识别
  
 
