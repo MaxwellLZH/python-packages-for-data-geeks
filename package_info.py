@@ -15,7 +15,7 @@ def get_properties(obj):
 
 
 def convert_to_float(s):
-	s = s.replace('k', '* 100')
+	s = s.replace('k', '* 1000')
 	return eval(s)
 
 
