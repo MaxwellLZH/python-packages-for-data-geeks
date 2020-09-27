@@ -269,6 +269,11 @@
     {
       "name": "horovod",
       "url": "https://github.com/horovod/horovod"
+    },
+
+    {
+      "name": "ray",
+      "url": "https://github.com/ray-project/ray"
     }
 
    ],

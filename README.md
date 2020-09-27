@@ -109,6 +109,7 @@ name|owner|stars|description
 ## Distributed Training  
 name|owner|stars|description
 ---|---|---|---
+[**ray**](https://github.com/ray-project/ray)|ray-project|13.3k|An open source framework that provides a simple, universal api for building distributed applications. ray is packaged with rllib, a scalable reinforcement learning library, and tune, a scalable hyperparameter tuning library.
 [**horovod**](https://github.com/horovod/horovod)|horovod|10k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
  
 
