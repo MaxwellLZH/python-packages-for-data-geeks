@@ -140,8 +140,9 @@ if __name__ == '__main__':
 	pkgs = list_packages()
 	info = get_existing_info()
 
+	# get information for new packages
 	for name, url in pkgs:
-		if (name == 'horovod') or (name not in info):
+		if (name == 'horovod') or (name not in info) or (info[name]['description'].strip() == ''):
 			pkg = make_package(name, url)
 			info[pkg.name] = pkg.to_dict()
 

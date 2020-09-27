@@ -93,7 +93,7 @@ name|owner|stars|description
 ---|---|---|---
 [**pyro**](https://github.com/pyro-ppl/pyro)|pyro-ppl|6.2k|Deep universal probabilistic programming with python and pytorch
 [**pymc**](https://github.com/pymc-devs/pymc3)|pymc-devs|4.6k|Probabilistic programming in python: bayesian modeling and probabilistic machine learning with theano
-[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.5k|
+[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.6k|A probabilistic programming language in tensorflow. deep generative models, variational inference.
  
 
 
@@ -123,23 +123,23 @@ name|owner|stars|description
 ## Confident Learning  
 name|owner|stars|description
 ---|---|---|---
-[**cleanlab**](https://github.com/cgnorthcutt/cleanlab)|cgnorthcutt|993|
+[**cleanlab**](https://github.com/cgnorthcutt/cleanlab)|cgnorthcutt|1.2k|Find label errors in datasets, weak supervision, and learning with noisy labels.
  
 
 
 ## Causal Inference  
 name|owner|stars|description
 ---|---|---|---
-[**EconML**](https://github.com/microsoft/EconML)|microsoft|871|
-[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.5k|
-[**dowhy**](https://github.com/microsoft/dowhy)|microsoft|2.1k|
+[**EconML**](https://github.com/microsoft/EconML)|microsoft|943|Alice (automated learning and intelligence for causation and economics) is a microsoft research project aimed at applying artificial intelligence concepts to economic decision making. one of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal …
+[**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.6k|A probabilistic programming language in tensorflow. deep generative models, variational inference.
+[**dowhy**](https://github.com/microsoft/dowhy)|microsoft|2.3k|Dowhy is a python library for causal inference that supports explicit modeling and testing of causal assumptions. dowhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
  
 
 
 ## NLP Preprocessing  
 name|owner|stars|description
 ---|---|---|---
-[**TextAttack**](https://github.com/QData/TextAttack)|QData|709|
+[**TextAttack**](https://github.com/QData/TextAttack)|QData|902|Textattack 🐙 is a python framework for adversarial attacks, data augmentation, and model training in nlp
 [**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**jieba**](https://github.com/fxsjy/jieba)|fxsjy|23k|结巴中文分词
@@ -167,8 +167,8 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**top2vec**](https://github.com/ddangelov/Top2Vec)|ddangelov|489|Top2vec learns jointly embedded topic, document and word vectors.
+[**sentence-transformers**](https://github.com/UKPLab/sentence-transformers)|UKPLab|3k|Sentence embeddings with bert & xlnet
 [**glyce embedding**](https://github.com/ShannonAI/glyce)|ShannonAI|238|Code for neurips 2019 - glyce: glyph-vectors for chinese character representations
-[**sentence-transformers**](https://github.com/UKPLab/sentence-transformers)|UKPLab|2.6k|
  
 
 
@@ -197,8 +197,8 @@ name|owner|stars|description
 ## OCR  
 name|owner|stars|description
 ---|---|---|---
-[**chineseocr-lite**](https://github.com/ouyanghuiyu/chineseocr_lite)|ouyanghuiyu|5.4k|
-[**InvoiceNet**](https://github.com/naiveHobo/InvoiceNet)|naiveHobo|1.3k|
+[**chineseocr-lite**](https://github.com/ouyanghuiyu/chineseocr_lite)|ouyanghuiyu|5.7k|超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8m) + crnn(2.5m) + anglenet(378kb)) 总模型仅4.7m
+[**InvoiceNet**](https://github.com/naiveHobo/InvoiceNet)|naiveHobo|1.5k|Deep neural network to extract intelligent information from invoice documents.
  
 
 
@@ -206,9 +206,9 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
-[**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|673|
+[**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
 [**recommenders**](https://github.com/microsoft/recommenders)|microsoft|6.6k|Best practices on recommendation systems
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|514|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|561|
 [**DeepCTR**](https://github.com/shenweichen/DeepCTR)|shenweichen|3.3k|Easy-to-use,modular and extendible package of deep-learning based ctr models.
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
  
@@ -217,7 +217,7 @@ name|owner|stars|description
 ## Outlier Detection  
 name|owner|stars|description
 ---|---|---|---
-[**alibi-detect**](https://github.com/SeldonIO/alibi-detect)|SeldonIO|149|
+[**alibi-detect**](https://github.com/SeldonIO/alibi-detect)|SeldonIO|206|Algorithms for outlier and adversarial instance detection, concept drift and metrics.
  
 
 
@@ -228,7 +228,7 @@ name|owner|stars|description
 [**spektral**](https://github.com/danielegrattarola/spektral)|danielegrattarola|810|Graph neural networks with keras and tensorflow 2.
 [**graph_nets**](https://github.com/deepmind/graph_nets)|deepmind|3.9k|Build graph nets in tensorflow
 [**dgl**](https://github.com/dmlc/dgl)|dmlc|3.4k|Python package built to ease deep learning on graph, on top of existing dl frameworks.
-[**graphSAGE**](https://github.com/williamleif/GraphSAGE)|williamleif|1.7k|
+[**graphSAGE**](https://github.com/williamleif/GraphSAGE)|williamleif|1.9k|Representation learning on large graphs using stochastic graph convolutions.
 [**SNAP**](https://github.com/snap-stanford/snap)|snap-stanford|1.5k|Stanford network analysis platform (snap) is a general purpose network analysis and graph mining library.
 [**stellargraph**](https://github.com/stellargraph/stellargraph)|stellargraph|1.2k|Stellargraph - machine learning on graphs
  
@@ -249,8 +249,8 @@ name|owner|stars|description
 [**GANHacks**](https://github.com/soumith/ganhacks)|soumith|8.4k|"Starter from ""how to train a gan?"" at nips2016"
 [**pix2pix**](https://github.com/phillipi/pix2pix)|phillipi|7.7k|Image-to-image translation with conditional adversarial nets
 [**DCGAN**](https://github.com/carpedm20/DCGAN-tensorflow)|carpedm20|6.5k|"A tensorflow implementation of ""deep convolutional generative adversarial networks"""
-[**DoppelGANger**](https://github.com/fjxmlzn/DoppelGANger)|fjxmlzn|26|
-[**pytorch-CycleGAN-and-pix2pix**](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|junyanz|12.3k|
+[**DoppelGANger**](https://github.com/fjxmlzn/DoppelGANger)|fjxmlzn|45|Using gans for sharing networked time series data: challenges, initial promise, and open questions, imc 2020
+[**pytorch-CycleGAN-and-pix2pix**](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|junyanz|13.1k|Image-to-image translation in pytorch
 [**ALAE**](https://github.com/podgorskiy/ALAE)|podgorskiy|1.8k|[cvpr2020] adversarial latent autoencoders
  
 
@@ -283,17 +283,18 @@ name|owner|stars|description
 ## Development Toolkit  
 name|owner|stars|description
 ---|---|---|---
+[**pygooglenews**](https://github.com/kotartemiy/pygooglenews)|kotartemiy|816|If google news had a python library
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
-[**pygooglenews**](https://github.com/kotartemiy/pygooglenews)|kotartemiy|653|
 [**free-apis**](https://github.com/public-apis/public-apis#geocoding)|public-apis|65.9k|A collective list of free apis for use in software and web development.
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工
 [**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
-[**bottleneck**](https://github.com/pydata/bottleneck)|pydata|521|
+[**bottleneck**](https://github.com/pydata/bottleneck)|pydata|540|Fast numpy array functions written in c
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|4k|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**wily**](https://github.com/tonybaloney/wily)|tonybaloney|445|A python application for tracking, reporting on timing and complexity in python code
 [**jupytext**](https://github.com/mwouts/jupytext)|mwouts|3k|Jupyter notebooks as markdown documents, julia, python or r scripts
 [**modin**](https://github.com/modin-project/modin)|modin-project|3.6k|Modin: speed up your pandas workflows by changing a single line of code
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3.2k|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
+[**lark**](https://github.com/lark-parser/lark)|lark-parser|2k|Lark is a parsing toolkit for python, built with a focus on ergonomics, performance and modularity.
 [**bash-bible**](https://github.com/dylanaraps/pure-bash-bible#strip-pattern-from-start-of-string)|dylanaraps|23.3k|📖 a collection of pure bash alternatives to external processes.
 [**papermill**](https://github.com/nteract/papermill/)|nteract|2.7k|📚 parameterize, execute, and analyze notebooks
 [**handclacs**](https://github.com/connorferster/handcalcs)|connorferster|2.3k|Python library for converting python calculations into rendered latex.
@@ -302,7 +303,6 @@ name|owner|stars|description
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|12.9k|Never use print for debugging again
 [**handout**](https://github.com/danijar/handout)|danijar|1.8k|Turn python scripts into handouts with markdown and figures
 [**urwind**](https://github.com/urwid/urwid)|urwid|1.7k|Console user interface library for python (official repo)
-[**lark**](https://github.com/lark-parser/lark/tree/master/examples)|lark-parser|1.7k|
 [**xarray**](https://github.com/pydata/xarray)|pydata|1.5k|N-d labeled arrays and datasets in python
 [**more-itertools**](https://github.com/more-itertools/more-itertools)|more-itertools|1.5k|More routines for operating on iterables, beyond itertools
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1.4k|🍦 sweet and creamy print debugging.
@@ -325,6 +325,7 @@ name|owner|stars|description
 [**Command line tutorial in one page**](https://github.com/jlevy/the-art-of-command-line)|jlevy|66.5k|Master the command line, in one page
 [**Dimensional reduction algos**](https://github.com/heucoder/dimensionality_reduction_alo_codes)|heucoder|553|Pca、lda、mds、lle、tsne等降维算法的python实现
 [**GNN Papers**](https://github.com/thunlp/GNNPapers)|thunlp|5.7k|Must-read papers on graph neural networks (gnn)
+[**minGPT**](https://github.com/karpathy/minGPT)|karpathy|5.3k|A minimal pytorch re-implementation of the openai gpt (generative pretrained transformer) training
 [**tensorflow2_tutorials_chinese**](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|czy36mengfei|4k|Tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
 [**Generative Deep Learning**](https://github.com/davidADSP/GDL_code)|davidADSP|491|The official code repository for examples in the o'reilly book 'generative deep learning'
 [**reinforcement learning**](https://github.com/dalmia/David-Silver-Reinforcement-learning)|dalmia|417|Notes for the reinforcement learning course by david silver along with implementation of various algorithms.
@@ -333,7 +334,6 @@ name|owner|stars|description
 [**Learn Regex**](https://github.com/ziishaned/learn-regex)|ziishaned|31.9k|Learn regex the easy way
 [**Tensorflow-2.x-Tutorials**](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)|dragen1860|3.7k|Tensorflow 2.x version's tutorials and examples, including cnn, rnn, gan, auto-encoders, fasterrcnn, gpt, bert examples, etc. tf 2.0版入门实例代码，实战教程。
 [**Machine Learning Notes from Prof. Yida Xu**](https://github.com/roboticcam/machine-learning-notes)|roboticcam|3.5k|My continuously updated machine learning, probabilistic models and deep learning notes and demos (1500+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
-[**minGPT**](https://github.com/karpathy/minGPT)|karpathy|3.3k|
 [**openNRE**](https://github.com/thunlp/OpenNRE)|thunlp|2k|An open-source package for neural relation extraction (nre)
 [**Keras Text classification**](https://github.com/yongzhuo/Keras-TextClassification)|yongzhuo|277|中文长文本分类、短句子分类、多标签分类、两句子相似度（chinese text classification of keras nlp, multi-label classify, or sentence classify, long or short），字词句向量嵌入层（embeddings）和网络层（graph）构建基类，fasttext，textcnn，charcnn，textrnn, rcnn, dcnn, dpcnn, vdcnn, crnn, bert, xlnet, albert, attention, deepmoji, han, 胶囊网络-capsulenet, transformer-encode, seq2seq, ent, dmn,
 [**500 lines or less**](https://github.com/aosabook/500lines)|aosabook|23.9k|500 lines or less
