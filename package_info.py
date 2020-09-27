@@ -15,8 +15,8 @@ def get_properties(obj):
 
 
 def convert_to_float(s):
-	s = ''.join(filter(lambda x: x.isdigit(), s))
-	return float(s)
+	s = s.replace('k', '* 100')
+	return eval(s)
 
 
 class Package(metaclass=ABCMeta):
@@ -108,7 +108,8 @@ def convert_info_to_markdown(info):
 	df = df.drop('link', axis=1)
 
 	# sort packages for start count
-	df = df.sort_values('stars', ascending=False)	
+	df['stars_float'] = df['stars'].apply(convert_to_float)
+	df = df.sort_values('stars_float', ascending=False).drop('stars_float', axis=1)
 
 	# add header mark
 	cols = df.columns
