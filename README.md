@@ -102,15 +102,24 @@ name|owner|stars|description
 ---|---|---|---
 [**Autograd**](https://github.com/HIPS/autograd)|HIPS|4.4k|Efficiently computes derivatives of numpy code.
 [**RAdam**](https://github.com/LiyuanLucasLiu/RAdam)|LiyuanLucasLiu|1.8k|On the variance of the adaptive learning rate and beyond
+[**einops**](https://github.com/arogozhnikov/einops)|arogozhnikov|1.6k|Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
 [**Pytorch Metric Learning**](https://github.com/KevinMusgrave/pytorch-metric-learning)|KevinMusgrave|1.3k|The easiest way to use deep metric learning in your application. modular, flexible, and extensible. written in pytorch.
  
 
 
-## Distributed Training  
+## Model Training  
+name|owner|stars|description
+---|---|---|---
+[**horovod**](https://github.com/horovod/horovod)|horovod|10.5k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**tfx**](https://github.com/tensorflow/tfx)|tensorflow|1.2k|Tfx is an end-to-end platform for deploying production ml pipelines
+ 
+
+
+## Distributed  
 name|owner|stars|description
 ---|---|---|---
 [**ray**](https://github.com/ray-project/ray)|ray-project|13.3k|An open source framework that provides a simple, universal api for building distributed applications. ray is packaged with rllib, a scalable reinforcement learning library, and tune, a scalable hyperparameter tuning library.
-[**horovod**](https://github.com/horovod/horovod)|horovod|10k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**dask**](https://github.com/dask/dask)|dask|7.5k|Parallel computing with task scheduling
  
 
 
@@ -161,6 +170,7 @@ name|owner|stars|description
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|149|
  
 
 
@@ -198,6 +208,7 @@ name|owner|stars|description
 ## OCR  
 name|owner|stars|description
 ---|---|---|---
+[**easyOCR**](https://github.com/JaidedAI/EasyOCR)|JaidedAI|8.3k|Ready-to-use ocr with 40+ languages supported including chinese, japanese, korean and thai
 [**chineseocr-lite**](https://github.com/ouyanghuiyu/chineseocr_lite)|ouyanghuiyu|5.7k|超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8m) + crnn(2.5m) + anglenet(378kb)) 总模型仅4.7m
 [**InvoiceNet**](https://github.com/naiveHobo/InvoiceNet)|naiveHobo|1.5k|Deep neural network to extract intelligent information from invoice documents.
  
@@ -211,7 +222,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|561|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|586|
  
 
 

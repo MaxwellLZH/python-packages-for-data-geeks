@@ -246,7 +246,6 @@
    ],
 
 
-
    "Deep Learning": [
     {
       "name": "Autograd",
@@ -261,23 +260,39 @@
     {
       "name": "Pytorch Metric Learning",
       "url": "https://github.com/KevinMusgrave/pytorch-metric-learning"
+    },
+
+    {
+      "name": "einops",
+      "url": "https://github.com/arogozhnikov/einops"
     }
 
    ],
 
-   "Distributed Training": [
+   "Model Training": [
     {
       "name": "horovod",
       "url": "https://github.com/horovod/horovod"
     },
 
     {
+      "name": "tfx",
+      "url": "https://github.com/tensorflow/tfx"
+    }
+    ],
+
+   "Distributed": [
+    {
       "name": "ray",
       "url": "https://github.com/ray-project/ray"
+    },
+
+    {
+      "name": "dask",
+      "url": "https://github.com/dask/dask"
     }
 
    ],
-
 
    "Federated Learning": [
     {
@@ -394,6 +409,11 @@
     {
       "name": "MatchZoo",
       "url": "https://github.com/NTMC-Community/MatchZoo"
+    },
+
+    {
+      "name": "FinBert",
+      "url": "https://github.com/valuesimplex/FinBERT"
     }
 
    ],
@@ -486,6 +506,11 @@
     {
       "name": "chineseocr-lite",
       "url": "https://github.com/ouyanghuiyu/chineseocr_lite"
+    },
+
+    {
+      "name": "easyOCR",
+      "url": "https://github.com/JaidedAI/EasyOCR"
     }
 
    ],
