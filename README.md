@@ -156,6 +156,7 @@ name|owner|stars|description
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
 [**jiagu**](https://github.com/ownthink/Jiagu)|ownthink|1k|Jiagu深度学习自然语言处理工具 知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 [**TextAttack**](https://github.com/QData/TextAttack)|QData|902|Textattack 🐙 is a python framework for adversarial attacks, data augmentation, and model training in nlp
+[**MiNLP**](https://github.com/XiaoMi/MiNLP)|XiaoMi|494|Xiaomi natural language processing toolkits
 [**fastHan**](https://github.com/fastnlp/fastHan)|fastnlp|163|Fasthan是基于fastnlp与pytorch实现的中文自然语言处理工具，像spacy一样调用方便。
  
 

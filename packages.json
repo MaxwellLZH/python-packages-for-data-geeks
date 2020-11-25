@@ -370,6 +370,11 @@
     {
       "name": "TextAttack",
       "url": "https://github.com/QData/TextAttack"
+    },
+
+    {
+      "name": "MiNLP",
+      "url": "https://github.com/XiaoMi/MiNLP"
     }
 
    ],
