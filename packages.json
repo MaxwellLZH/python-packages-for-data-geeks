@@ -597,6 +597,11 @@
     {
       "name": "graphSAGE",
       "url": "https://github.com/williamleif/GraphSAGE"
+    },
+
+    {
+      "name": "simple-graph",
+      "url": "https://github.com/dpapathanasiou/simple-graph"
     }
 
   ],
@@ -1079,6 +1084,11 @@
     {
       "name": "mlfinlab",
       "url": "https://github.com/hudson-and-thames/mlfinlab"
+    },
+
+    {
+      "name": "tensortrade", 
+      "url": "https://github.com/tensortrade-org/tensortrade"
     }
 
   ]

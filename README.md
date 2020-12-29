@@ -110,7 +110,7 @@ name|owner|stars|description
 ## Model Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|10.5k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|10.6k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
 [**tfx**](https://github.com/tensorflow/tfx)|tensorflow|1.2k|Tfx is an end-to-end platform for deploying production ml pipelines
  
 
@@ -171,7 +171,7 @@ name|owner|stars|description
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|149|
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|195|
  
 
 
@@ -223,7 +223,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|586|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|598|
  
 
 
@@ -244,6 +244,7 @@ name|owner|stars|description
 [**stellargraph**](https://github.com/stellargraph/stellargraph)|stellargraph|1.2k|Stellargraph - machine learning on graphs
 [**plato**](https://github.com/Tencent/plato)|Tencent|874|腾讯高性能分布式图计算框架plato
 [**spektral**](https://github.com/danielegrattarola/spektral)|danielegrattarola|810|Graph neural networks with keras and tensorflow 2.
+[**simple-graph**](https://github.com/dpapathanasiou/simple-graph)|dpapathanasiou|499|"This is a simple graph database in sqlite, inspired by ""sqlite as a document database"""
  
 
 
@@ -379,6 +380,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**zipline**](https://github.com/quantopian/zipline)|quantopian|11.2k|Zipline, a pythonic algorithmic trading library
+[**tensortrade**](https://github.com/tensortrade-org/tensortrade)|tensortrade-org|2k|An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 [**mlfinlab**](https://github.com/hudson-and-thames/mlfinlab)|hudson-and-thames|1.3k|Mlfinlab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 [**tf-quant**](https://github.com/google/tf-quant-finance)|google|773|High-performance tensorflow library for quantitative finance.
  
