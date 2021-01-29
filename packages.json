@@ -456,6 +456,11 @@
     {
       "name": "imagededupe",
       "url": "https://github.com/idealo/imagededup"
+    },
+
+    {
+      "name": "albumentations",
+      "url": "https://github.com/albumentations-team/albumentations"
     }
 
     ],

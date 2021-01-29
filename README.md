@@ -110,7 +110,7 @@ name|owner|stars|description
 ## Model Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|10.6k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|10.8k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
 [**tfx**](https://github.com/tensorflow/tfx)|tensorflow|1.2k|Tfx is an end-to-end platform for deploying production ml pipelines
  
 
@@ -171,7 +171,7 @@ name|owner|stars|description
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|195|
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|224|
  
 
 
@@ -188,6 +188,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**imgaug**](https://github.com/aleju/imgaug)|aleju|9k|Image augmentation for machine learning experiments.
+[**albumentations**](https://github.com/albumentations-team/albumentations)|albumentations-team|7.2k|Fast image augmentation library and easy to use wrapper around other libraries. documentation: https://albumentations.ai/docs/ paper about library: https://www.mdpi.com/2078-2489/11/2/125
 [**imagededupe**](https://github.com/idealo/imagededup)|idealo|2.7k|😎 finding duplicate images made easy!
 [**imutils**](https://github.com/jrosebr1/imutils)|jrosebr1|2.6k|A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying matplotlib images easier with opencv and python.
  
@@ -223,7 +224,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|598|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|609|
  
 
 
