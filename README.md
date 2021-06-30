@@ -16,6 +16,7 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**featuretools**](https://github.com/FeatureLabs/featuretools)|FeatureLabs|4.8k|An open source python library for automated feature engineering
+[**Augly**](https://github.com/facebookresearch/AugLy)|facebookresearch|3.3k|A data augmentations library for audio, image, text, and video.
 [**great_expectations**](https://github.com/great-expectations/great_expectations)|great-expectations|2.7k|Always know what to expect from your data.
 [**categorical-encoders**](https://github.com/scikit-learn-contrib/categorical-encoding)|scikit-learn-contrib|1.1k|A library of sklearn compatible categorical variable encoders
 [**fancy-impute**](https://github.com/iskandr/fancyimpute)|iskandr|735|Multivariate imputation and matrix completion algorithms implemented in python
@@ -110,7 +111,7 @@ name|owner|stars|description
 ## Model Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|10.8k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|11.4k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
 [**tfx**](https://github.com/tensorflow/tfx)|tensorflow|1.2k|Tfx is an end-to-end platform for deploying production ml pipelines
  
 
@@ -170,8 +171,8 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|313|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|224|
  
 
 
@@ -224,7 +225,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|609|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|635|
  
 
 

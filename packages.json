@@ -49,6 +49,11 @@
       {
         "name": "great_expectations",
         "url": "https://github.com/great-expectations/great_expectations"
+      },
+
+      {
+        "name": "Augly",
+        "url": "https://github.com/facebookresearch/AugLy"
       }
 
    ],
