@@ -171,6 +171,7 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
+[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|469|
 [**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|313|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
  

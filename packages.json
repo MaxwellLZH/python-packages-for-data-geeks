@@ -424,6 +424,11 @@
     {
       "name": "FinBert",
       "url": "https://github.com/valuesimplex/FinBERT"
+    },
+
+    {
+      "name": "AliceMind",
+      "url": "https://github.com/alibaba/AliceMind"
     }
 
    ],
