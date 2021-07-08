@@ -171,8 +171,8 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
-[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|469|
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|313|
+[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|493|
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|314|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
  
 
@@ -206,6 +206,7 @@ name|owner|stars|description
 [**detr**](https://github.com/facebookresearch/detr)|facebookresearch|3.4k|End-to-end object detection with transformers
 [**FastMaskRCNN**](https://github.com/CharlesShang/FastMaskRCNN)|CharlesShang|3k|Mask rcnn in tensorflow
 [**u2net**](https://github.com/NathanUA/U-2-Net)|NathanUA|873|"The code for our newly accepted paper in pattern recognition 2020: ""u^2-net: going deeper with nested u-structure for salient object detection."""
+[**TFace**](https://github.com/Tencent/TFace)|Tencent|454|A trusty face recognition research platform developed by tencent youtu lab
  
 
 
@@ -226,7 +227,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|635|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|634|
  
 
 

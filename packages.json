@@ -512,6 +512,11 @@
     {
       "name": "u2net",
       "url": "https://github.com/NathanUA/U-2-Net"
+    },
+
+    {
+      "name": "TFace",
+      "url": "https://github.com/Tencent/TFace"
     }
 
    ],
