@@ -329,7 +329,12 @@
     {
       "name": "Edward",
       "url": "https://github.com/blei-lab/edward"
-  }
+    },
+
+    {
+      "name": "CausalML",
+      "url": "https://github.com/uber/causalml"
+    }
 
 
    ],

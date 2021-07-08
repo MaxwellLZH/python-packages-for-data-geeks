@@ -143,6 +143,7 @@ name|owner|stars|description
 ---|---|---|---
 [**Edward**](https://github.com/blei-lab/edward)|blei-lab|4.6k|A probabilistic programming language in tensorflow. deep generative models, variational inference.
 [**dowhy**](https://github.com/microsoft/dowhy)|microsoft|2.3k|Dowhy is a python library for causal inference that supports explicit modeling and testing of causal assumptions. dowhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+[**CausalML**](https://github.com/uber/causalml)|uber|2.1k|Uplift modeling and causal inference with machine learning algorithms
 [**EconML**](https://github.com/microsoft/EconML)|microsoft|943|Alice (automated learning and intelligence for causation and economics) is a microsoft research project aimed at applying artificial intelligence concepts to economic decision making. one of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal …
  
 
