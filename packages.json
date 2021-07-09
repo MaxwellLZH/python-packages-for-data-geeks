@@ -385,6 +385,11 @@
     {
       "name": "MiNLP",
       "url": "https://github.com/XiaoMi/MiNLP"
+    },
+
+    {
+      "name": "datasets",
+      "url": "https://github.com/huggingface/datasets"
     }
 
    ],
