@@ -167,6 +167,11 @@
       {
         "name": "darts",
         "url": "https://github.com/quark0/darts"
+      },
+
+      {
+        "name": "jina",
+        "url": "https://github.com/jina-ai/jina"
       }
 
 
