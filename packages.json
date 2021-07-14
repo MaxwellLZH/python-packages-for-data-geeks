@@ -651,6 +651,11 @@
     {
       "name": "faiss",
       "url": "https://github.com/facebookresearch/faiss"
+    },
+
+    {
+      "name": "haystack",
+      "url": "https://github.com/deepset-ai/haystack"
     }
 
    ],
