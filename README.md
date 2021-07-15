@@ -60,6 +60,7 @@ name|owner|stars|description
 ## AutoML  
 name|owner|stars|description
 ---|---|---|---
+[**jina**](https://github.com/jina-ai/jina)|jina-ai|7.6k|Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 [**autokeras**](https://github.com/keras-team/autokeras)|keras-team|7k|An automl system based on keras
 [**tpot**](https://github.com/EpistasisLab/tpot)|EpistasisLab|6.5k|A python automated machine learning tool that optimizes machine learning pipelines using genetic programming.
 [**auto-scikitlearn**](https://github.com/automl/auto-sklearn)|automl|4.1k|Automated machine learning with scikit-learn
@@ -153,6 +154,7 @@ name|owner|stars|description
 ---|---|---|---
 [**jieba**](https://github.com/fxsjy/jieba)|fxsjy|23k|结巴中文分词
 [**HanLP**](https://github.com/hankcs/HanLP)|hankcs|19.4k|Natural language processing for the next decade. tokenization, part-of-speech tagging, named entity recognition, syntactic & semantic dependency parsing, document classification
+[**datasets**](https://github.com/huggingface/datasets)|huggingface|8.6k|🤗 the largest hub of ready-to-use nlp datasets for ml models with fast, easy-to-use and efficient data manipulation tools
 [**Chinese Word Embeddings**](https://github.com/Embedding/Chinese-Word-Vectors)|Embedding|6.6k|100+ chinese word vectors 上百种预训练中文词向量
 [**sentencepiece**](https://github.com/google/sentencepiece)|google|3.3k|Unsupervised text tokenizer for neural network-based text generation.
 [**ckiptagger**](https://github.com/ckiplab/ckiptagger)|ckiplab|1.1k|Ckip neural chinese word segmentation, pos tagging, and ner
@@ -172,8 +174,8 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
-[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|493|
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|314|
+[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|513|
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|317|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
  
 
@@ -258,6 +260,7 @@ name|owner|stars|description
 ---|---|---|---
 [**faiss**](https://github.com/facebookresearch/faiss)|facebookresearch|9.7k|A library for efficient similarity search and clustering of dense vectors.
 [**annoy**](https://github.com/spotify/annoy)|spotify|6.7k|Approximate nearest neighbors in c++/python optimized for memory usage and loading/saving to disk
+[**haystack**](https://github.com/deepset-ai/haystack)|deepset-ai|2.1k|🔍 end-to-end python framework for building natural language search interfaces to data. leverages transformers and the state-of-the-art of nlp. supports dpr, elasticsearch, hugging face’s hub, and much more!
  
 
 
