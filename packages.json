@@ -891,8 +891,17 @@
     {
       "name": "more-itertools",
       "url": "https://github.com/more-itertools/more-itertools"
-    }
+    },
 
+    {
+      "name": "playwright-python",
+      "url": "https://github.com/microsoft/playwright-python"
+    },
+
+    {
+      "name": "sqlfluff",
+      "url": "https://github.com/sqlfluff/sqlfluff"
+    }
 
   ],
 
