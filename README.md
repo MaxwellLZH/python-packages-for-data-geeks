@@ -174,8 +174,8 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
-[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|513|
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|317|
+[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|519|
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|318|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
  
 
@@ -230,7 +230,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|634|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|636|
  
 
 
@@ -311,8 +311,9 @@ name|owner|stars|description
 [**black**](https://github.com/psf/black)|psf|13.7k|The uncompromising python code formatter
 [**PySnooper**](https://github.com/cool-RR/PySnooper)|cool-RR|12.9k|Never use print for debugging again
 [**poetry**](https://github.com/sdispater/poetry)|sdispater|7.1k|Python dependency management and packaging made easy.
-[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
 [**free api**](https://github.com/fangzesheng/free-api)|fangzesheng|6.5k|收集免费的接口服务,做一个api的搬运工
+[**fastapi**](https://github.com/tiangolo/fastapi)|tiangolo|6.5k|Fastapi framework, high performance, easy to learn, fast to code, ready for production
+[**playwright-python**](https://github.com/microsoft/playwright-python)|microsoft|4.9k|Python version of the playwright testing and automation library.
 [**hypothesis**](https://github.com/HypothesisWorks/hypothesis)|HypothesisWorks|4k|Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 [**modin**](https://github.com/modin-project/modin)|modin-project|3.6k|Modin: speed up your pandas workflows by changing a single line of code
 [**pyautogui**](https://github.com/asweigart/pyautogui)|asweigart|3.2k|A cross-platform gui automation python module for human beings. used to programmatically control the mouse & keyboard.
@@ -320,10 +321,11 @@ name|owner|stars|description
 [**papermill**](https://github.com/nteract/papermill/)|nteract|2.7k|📚 parameterize, execute, and analyze notebooks
 [**handclacs**](https://github.com/connorferster/handcalcs)|connorferster|2.3k|Python library for converting python calculations into rendered latex.
 [**lark**](https://github.com/lark-parser/lark)|lark-parser|2k|Lark is a parsing toolkit for python, built with a focus on ergonomics, performance and modularity.
+[**sqlfluff**](https://github.com/sqlfluff/sqlfluff)|sqlfluff|1.8k|A sql linter and auto-formatter for humans
 [**handout**](https://github.com/danijar/handout)|danijar|1.8k|Turn python scripts into handouts with markdown and figures
 [**urwind**](https://github.com/urwid/urwid)|urwid|1.7k|Console user interface library for python (official repo)
-[**xarray**](https://github.com/pydata/xarray)|pydata|1.5k|N-d labeled arrays and datasets in python
 [**more-itertools**](https://github.com/more-itertools/more-itertools)|more-itertools|1.5k|More routines for operating on iterables, beyond itertools
+[**xarray**](https://github.com/pydata/xarray)|pydata|1.5k|N-d labeled arrays and datasets in python
 [**icecream - debugging**](https://github.com/gruns/icecream)|gruns|1.4k|🍦 sweet and creamy print debugging.
 [**pygooglenews**](https://github.com/kotartemiy/pygooglenews)|kotartemiy|816|If google news had a python library
 [**bottleneck**](https://github.com/pydata/bottleneck)|pydata|540|Fast numpy array functions written in c
