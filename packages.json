@@ -773,6 +773,16 @@
     {
       "name": "streamlit",
       "url": "https://github.com/streamlit/streamlit"
+    },
+
+    {
+      "name": "prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps"
+    },
+
+    {
+      "name": "dash sample apps",
+      "url": "https://github.com/plotly/dash-sample-apps"
     }
   ],
 

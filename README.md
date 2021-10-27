@@ -112,7 +112,7 @@ name|owner|stars|description
 ## Model Training  
 name|owner|stars|description
 ---|---|---|---
-[**horovod**](https://github.com/horovod/horovod)|horovod|11.4k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
+[**horovod**](https://github.com/horovod/horovod)|horovod|11.8k|Distributed training framework for tensorflow, keras, pytorch, and apache mxnet.
 [**tfx**](https://github.com/tensorflow/tfx)|tensorflow|1.2k|Tfx is an end-to-end platform for deploying production ml pipelines
  
 
@@ -174,8 +174,8 @@ name|owner|stars|description
 [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese)|Morizeyao|2.4k|Chinese version of gpt2 training code, using bert tokenizer.
 [**ALBERT**](https://github.com/brightmart/albert_zh)|brightmart|1.7k|A lite bert for self-supervised learning of language representations, 海量中文预训练albert模型
 [**bertforkeras**](https://github.com/bojone/bert4keras)|bojone|1.2k|Light reimplement of bert for keras
-[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|519|
-[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|318|
+[**AliceMind**](https://github.com/alibaba/AliceMind)|alibaba|820|Alibaba's collection of encoder-decoders from mind (machine intelligence of damo) lab
+[**FinBert**](https://github.com/valuesimplex/FinBERT)|valuesimplex|356|
 [**gensen**](https://github.com/Maluuba/gensen)|Maluuba|284|Learning general purpose distributed sentence representations via large scale multi-task learning
  
 
@@ -230,7 +230,7 @@ name|owner|stars|description
 [**DeepFM**](https://github.com/ChenglongChen/tensorflow-DeepFM)|ChenglongChen|1.5k|Tensorflow implementation of deepfm for ctr prediction.
 [**neural-collaborative-filtering**](https://github.com/hexiangnan/neural_collaborative_filtering)|hexiangnan|988|Neural collaborative filtering
 [**deepmatch**](https://github.com/shenweichen/DeepMatch)|shenweichen|781|A deep matching model library for recommendations & advertising. it's easy to train models and to export representation vectors which can be used for ann search.
-[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|636|
+[**xDeepFM**](https://github.com/Leavingseason/xDeepFM)|Leavingseason|656|
  
 
 
@@ -292,11 +292,13 @@ name|owner|stars|description
 name|owner|stars|description
 ---|---|---|---
 [**Dash**](https://github.com/plotly/dash)|plotly|10.8k|Analytical web apps for python & r. no javascript required.
+[**prettymaps**](https://github.com/marceloprates/prettymaps)|marceloprates|7.2k|A small set of python functions to draw pretty maps from openstreetmap data. based on osmnx, matplotlib and shapely libraries.
 [**Seaborn**](https://github.com/mwaskom/seaborn)|mwaskom|6.6k|Statistical data visualization using matplotlib
 [**Plotly**](https://github.com/plotly/plotly.py)|plotly|5.8k|An open-source, interactive graphing library for python (includes plotly express) ✨
 [**streamlit**](https://github.com/streamlit/streamlit)|streamlit|5.4k|Streamlit — the fastest way to build custom ml tools
 [**folium**](https://github.com/python-visualization/folium)|python-visualization|4.3k|Python data. leaflet.js maps.
 [**altair**](https://github.com/altair-viz/altair)|altair-viz|4.3k|Declarative statistical visualization library for python
+[**dash sample apps**](https://github.com/plotly/dash-sample-apps)|plotly|2k|Open-source demos hosted on dash gallery
 [**scikit-plot**](https://github.com/reiinakano/scikit-plot)|reiinakano|1.7k|An intuitive library to add plotting functionality to scikit-learn objects.
 [**CNN-Visualizer**](https://github.com/poloclub/cnn-explainer)|poloclub|1.7k|Learning convolutional neural networks with interactive visualization. https://poloclub.github.io/cnn-explainer/
  
